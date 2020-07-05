@@ -11,12 +11,8 @@ import sys
 def change_target_file(target):
     cnt = 0
     for line in fileinput.input(target, inplace=True):
-        print(line)
-        if line == '    """':
-            cnt += 1
-        if cnt == 2:
-            break
-
+        if re.search("from|Solution|^  def|    \"\"\"|    :type|    :rtype", line):
+            print(line, end="")
 
 if __name__ == "__main__":
     target_dir = "."
@@ -24,5 +20,5 @@ if __name__ == "__main__":
     pathlist = Path(target_dir).glob("**/*.py")
 
     for path in pathlist:
-        print(path)
-        # change_target_file(path)
+        # print(path)
+        change_target_file(path)
