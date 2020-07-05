@@ -10,6 +10,7 @@ for path in pathlist:
     src = str(path)
     dest = os.path.join("./md", src.split("/")[0] + ".md")
     print(src, dest)
+    copyfile(src, dest)
 
 
 
