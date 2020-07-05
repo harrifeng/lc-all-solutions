@@ -24,4 +24,5 @@ if __name__ == "__main__":
     pathlist = Path(target_dir).glob("**/*.py")
 
     for path in pathlist:
-        change_target_file(path)
+        print(path)
+        # change_target_file(path)
