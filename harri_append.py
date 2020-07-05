@@ -10,7 +10,7 @@ import sys
 
 def append_to_question(path):
     parent = path.split("/")[0]
-    question = "/".join([parent, "questin.md"])
+    question = "/".join([parent, "question.md"])
     print(path, question)
 
     with open(path) as fp:
