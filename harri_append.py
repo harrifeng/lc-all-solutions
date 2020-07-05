@@ -16,7 +16,7 @@ def append_to_question(path):
     with open(path) as fp:
         src_data = fp.read()
 
-    data = "\n```\n" + src_data + "```\n"
+    data = "\n```python\n" + src_data + "```\n"
 
     with open(question, "a") as fp:
         fp.write(data)
