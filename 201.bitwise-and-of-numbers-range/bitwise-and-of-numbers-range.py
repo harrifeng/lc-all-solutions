@@ -5,6 +5,3 @@ class Solution(object):
     :type n: int
     :rtype: int
     """
-    while m < n:
-      n = n & n - 1
-    return n

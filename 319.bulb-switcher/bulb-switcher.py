@@ -4,4 +4,3 @@ class Solution(object):
     :type n: int
     :rtype: int
     """
-    return int(n ** 0.5)
