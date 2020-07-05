@@ -7,10 +7,19 @@ import os
 import re
 import sys
 
+
 def append_to_question(path):
     parent = path.split("/")[0]
     question = "/".join([parent, "questin.md"])
     print(path, question)
+
+    with open(path) as fp:
+        src_data = fp.read()
+
+    data = "```\n" + src_data + "```\n"
+
+    with open(question, "a") as fp:
+        fp.write(data)
 
 
 if __name__ == "__main__":
