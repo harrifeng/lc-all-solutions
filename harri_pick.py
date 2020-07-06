@@ -9,9 +9,6 @@ pathlist = Path(target_dir).glob("**/*.md")
 for path in pathlist:
     src = str(path)
     dest = src.split("/")[0].replace(".", "-")
-    dest = os.path.join("./md", dest + ".md")
+    dest = os.path.join("./txt", dest + ".txt")
     print(src, dest)
     copyfile(src, dest)
-
-
-
