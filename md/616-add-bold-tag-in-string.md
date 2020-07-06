@@ -24,3 +24,17 @@ Note:
 
 The given dict won't contain duplicates, and its length won't exceed 100.
 All the strings in input have length in range [1, 1000].
+
+
+
+
+```python
+class Solution(object):
+  def addBoldTag(self, s, dict):
+    """
+    :type s: str
+    :type dict: List[str]
+    :rtype: str
+    """
+  def merge(self, intervals):
+```

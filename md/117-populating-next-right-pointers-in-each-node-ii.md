@@ -23,3 +23,11 @@ After calling your function, the tree should look like:
       2 -> 3 -> NULL
      / \    \
     4-> 5 -> 7 -> NULL
+
+
+
+
+```python
+class Solution:
+  def connect(self, root):
+```

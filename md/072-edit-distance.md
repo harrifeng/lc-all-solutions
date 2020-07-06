@@ -10,3 +10,15 @@ You have the following 3 operations permitted on a word:
 a) Insert a character
 b) Delete a character
 c) Replace a character
+
+
+
+```python
+class Solution(object):
+  def minDistance(self, word1, word2):
+    """
+    :type word1: str
+    :type word2: str
+    :rtype: int
+    """
+```

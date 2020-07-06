@@ -16,3 +16,14 @@ The largest rectangle is shown in the shaded area, which has area = 10 unit.
 For example,
 Given heights = [2,1,5,6,2,3],
 return 10.
+
+
+
+```python
+class Solution(object):
+  def largestRectangleArea(self, height):
+    """
+    :type height: List[int]
+    :rtype: int
+    """
+```

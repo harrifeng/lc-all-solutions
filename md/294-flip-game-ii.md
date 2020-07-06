@@ -12,3 +12,14 @@ For example, given s = "++++", return true. The starting player can guarantee a 
 
 Follow up:
 Derive your algorithm's runtime complexity.
+
+
+
+```python
+class Solution(object):
+  def canWin(self, s):
+    """
+    :type s: str
+    :rtype: bool
+    """
+```

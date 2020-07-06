@@ -48,3 +48,13 @@ Return true (self crossing)
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isSelfCrossing(self, x):
+    """
+    :type x: List[int]
+    :rtype: bool
+    """
+```

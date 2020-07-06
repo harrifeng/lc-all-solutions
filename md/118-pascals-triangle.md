@@ -11,3 +11,15 @@ Return
   [1,3,3,1],
  [1,4,6,4,1]
 ]
+
+
+
+
+```python
+class Solution(object):
+  def generate(self, numRows):
+    """
+    :type numRows: int
+    :rtype: List[List[int]]
+    """
+```

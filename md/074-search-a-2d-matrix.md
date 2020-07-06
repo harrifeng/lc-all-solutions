@@ -21,3 +21,14 @@ Consider the following matrix:
 
 
 Given target = 3, return true.
+
+
+```python
+class Solution(object):
+  def searchMatrix(self, matrix, target):
+    """
+    :type matrix: List[List[int]]
+    :type target: int
+    :rtype: bool
+    """
+```

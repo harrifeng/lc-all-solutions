@@ -18,3 +18,15 @@ Note:
 
 The length of the given array will not exceed 50,000.
 All the numbers in the input array are in the range of 32-bit integer.
+
+
+
+
+```python
+class Solution(object):
+  def reversePairs(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

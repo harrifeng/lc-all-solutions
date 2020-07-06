@@ -15,3 +15,13 @@ Minimize the total number of operations.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def moveZeroes(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: void Do not return anything, modify nums in-place instead.
+    """
+```

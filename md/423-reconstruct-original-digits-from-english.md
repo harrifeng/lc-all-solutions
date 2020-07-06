@@ -21,3 +21,15 @@ Example 2:
 Input: "fviefuro"
 
 Output: "45"
+
+
+
+
+```python
+class Solution(object):
+  def originalDigits(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

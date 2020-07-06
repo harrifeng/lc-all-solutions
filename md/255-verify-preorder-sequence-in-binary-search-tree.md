@@ -4,3 +4,13 @@ You may assume each number in the sequence is unique.
 
 Follow up:
 Could you do it using only constant space complexity?
+
+
+```python
+class Solution(object):
+  def verifyPreorder(self, preorder):
+    """
+    :type preorder: List[int]
+    :rtype: bool
+    """
+```

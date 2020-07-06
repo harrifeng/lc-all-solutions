@@ -30,3 +30,13 @@ Example 3:
 Return false
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isValidSerialization(self, preorder):
+    """
+    :type preorder: str
+    :rtype: bool
+    """
+```

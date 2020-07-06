@@ -14,3 +14,15 @@ Write the code that will take a string and make this conversion given a number o
 string convert(string text, int nRows);
 
 convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
+
+
+
+```python
+class Solution(object):
+  def convert(self, s, numRows):
+    """
+    :type s: str
+    :type numRows: int
+    :rtype: str
+    """
+```

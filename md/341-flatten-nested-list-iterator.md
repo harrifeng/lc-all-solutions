@@ -13,3 +13,31 @@ Example 2:
 Given the list [1,[4,[6]]],
 
 By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,4,6].
+
+
+
+
+```python
+#        """
+#        :rtype bool
+#        """
+#        """
+#        :rtype int
+#        """
+#        """
+#        :rtype List[NestedInteger]
+#        """
+from collections import deque
+  def __init__(self, nestedList):
+    """
+    :type nestedList: List[NestedInteger]
+    """
+  def next(self):
+    """
+    :rtype: int
+    """
+  def hasNext(self):
+    """
+    :rtype: bool
+    """
+```

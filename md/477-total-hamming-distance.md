@@ -19,3 +19,15 @@ Note:
 
 Elements of the given array are in the range of 0  to 10^9
 Length of the array will not exceed 10^4.
+
+
+
+
+```python
+class Solution(object):
+  def totalHammingDistance(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

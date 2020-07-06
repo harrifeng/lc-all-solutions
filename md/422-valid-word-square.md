@@ -73,3 +73,15 @@ Explanation:
 The third row reads "read" while the third column reads "lead".
 
 Therefore, it is NOT a valid word square.
+
+
+
+
+```python
+class Solution(object):
+  def validWordSquare(self, words):
+    """
+    :type words: List[str]
+    :rtype: bool
+    """
+```

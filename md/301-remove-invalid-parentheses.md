@@ -14,3 +14,13 @@ Examples:
 
 
 Credits:Special thanks to @hpplayer for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def removeInvalidParentheses(self, s):
+    """
+    :type s: str
+    :rtype: List[str]
+    """
+```

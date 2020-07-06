@@ -12,3 +12,16 @@ Explanation: The longest harmonious subsequence is [3,2,2,2,3].
 
 Note:
 The length of the input array will not exceed 20,000.
+
+
+
+
+
+```python
+class Solution(object):
+  def findLHS(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

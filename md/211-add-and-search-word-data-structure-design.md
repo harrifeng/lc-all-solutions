@@ -29,3 +29,14 @@ You may assume that all words are consist of lowercase letters a-z.
 click to show hint.
 
 You should be familiar with how a Trie works. If not, please work on this problem: Implement Trie (Prefix Tree) first.
+
+
+
+```python
+  def __init__(self):
+  def __init__(self):
+  def addWord(self, word):
+  def __init__(self):
+  def addWord(self, word):
+  def search(self, word):
+```

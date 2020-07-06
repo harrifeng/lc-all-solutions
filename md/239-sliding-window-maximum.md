@@ -21,3 +21,14 @@ You may assume k is always valid, ie: 1 &le; k &le; input array's size for non-e
 
 Follow up:
 Could you solve it in linear time?
+
+
+```python
+class Solution(object):
+  def maxSlidingWindow(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: List[int]
+    """
+```

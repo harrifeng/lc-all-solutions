@@ -12,3 +12,16 @@ Output: The root of a Greater Tree like this:
              18
             /   \
           20     13
+
+
+
+
+```python
+class Solution(object):
+  def __init__(self):
+  def convertBST(self, root):
+    """
+    :type root: TreeNode
+    :rtype: TreeNode
+    """
+```

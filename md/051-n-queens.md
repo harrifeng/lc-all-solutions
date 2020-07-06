@@ -20,3 +20,14 @@ There exist two distinct solutions to the 4-queens puzzle:
   "...Q",
   ".Q.."]
 ]
+
+
+
+```python
+class Solution(object):
+  def solveNQueens(self, n):
+    """
+    :type n: int
+    :rtype: List[List[str]]
+    """
+```

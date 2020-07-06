@@ -30,3 +30,32 @@ Return a NestedInteger object containing a nested list with 2 elements:
     i.  An integer containing value 456.
     ii. A nested list with one element:
          a. An integer containing value 789.
+
+
+
+
+```python
+#        """
+#        """
+#        """
+#        :rtype bool
+#        """
+#        """
+#        :rtype void
+#        """
+#        """
+#        :rtype void
+#        """
+#        """
+#        :rtype int
+#        """
+#        """
+#        :rtype List[NestedInteger]
+#        """
+class Solution(object):
+  def deserialize(self, s):
+    """
+    :type s: str
+    :rtype: NestedInteger
+    """
+```

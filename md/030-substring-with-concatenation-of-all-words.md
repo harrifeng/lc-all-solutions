@@ -11,3 +11,16 @@ words: ["foo", "bar"]
 
 You should return the indices: [0,9].
 (order does not matter).
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def findSubstring(self, s, words):
+    """
+    :type s: str
+    :type words: List[str]
+    :rtype: List[int]
+    """
+```

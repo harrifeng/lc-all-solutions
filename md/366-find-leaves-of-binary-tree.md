@@ -44,3 +44,13 @@ Returns [4, 5, 3], [2], [1].
 
 
 Credits:Special thanks to @elmirap for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def findLeaves(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[List[int]]
+    """
+```

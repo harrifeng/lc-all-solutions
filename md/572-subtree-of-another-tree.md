@@ -40,3 +40,15 @@ Given tree t:
  1   2
 
 Return false.
+
+
+
+```python
+class Solution(object):
+  def isSubtree(self, s, t):
+    """
+    :type s: TreeNode
+    :type t: TreeNode
+    :rtype: bool
+    """
+```

@@ -12,3 +12,15 @@ A solution set is:
   [-2, -1, 1, 2],
   [-2,  0, 0, 2]
 ]
+
+
+
+```python
+class Solution(object):
+  def fourSum(self, nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: List[List[int]]
+    """
+```

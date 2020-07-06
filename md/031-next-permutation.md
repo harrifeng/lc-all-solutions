@@ -12,3 +12,16 @@ Here are some examples. Inputs are in the left-hand column and its corresponding
 1,2,3 &#8594; 1,3,2
 3,2,1 &#8594; 1,2,3
 1,1,5 &#8594; 1,5,1
+
+
+
+```python
+class Solution(object):
+  def nextPermutation(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: void Do not return anything, modify nums in-place instead.
+    """
+    # swap the two above number and reverse the array from `pos`
+  def reverse(self, nums, start, end):
+```

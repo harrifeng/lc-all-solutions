@@ -23,3 +23,15 @@ Note:
 
 The sum of node values in any subtree won't exceed the range of 32-bit integer.
 All the tilt values won't exceed the range of 32-bit integer.
+
+
+
+
+```python
+class Solution(object):
+  def findTilt(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

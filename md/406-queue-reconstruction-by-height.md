@@ -12,3 +12,15 @@ Input:
 
 Output:
 [[5,0], [7,0], [5,2], [6,1], [4,4], [7,1]]
+
+
+
+
+```python
+class Solution(object):
+  def reconstructQueue(self, people):
+    """
+    :type people: List[List[int]]
+    :rtype: List[List[int]]
+    """
+```

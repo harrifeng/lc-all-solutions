@@ -15,3 +15,21 @@ solution.reset();
 
 // Returns the random shuffling of array [1,2,3].
 solution.shuffle();
+
+
+
+
+```python
+class Solution(object):
+  def __init__(self, nums):
+    """
+    :type nums: List[int]
+    :type size: int
+    """
+  def shuffle(self):
+    """
+    :rtype: List[int]
+    """
+# Your Solution object will be instantiated and called as such:
+# obj = Solution(nums)
+```

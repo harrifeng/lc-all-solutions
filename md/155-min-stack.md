@@ -26,3 +26,29 @@ minStack.getMin();   --> Returns -3.
 minStack.pop();
 minStack.top();      --> Returns 0.
 minStack.getMin();   --> Returns -2.
+
+
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def push(self, x):
+    """
+    :type x: int
+    :rtype: void
+    """
+  def pop(self):
+    """
+    :rtype: void
+    """
+  def top(self):
+    """
+    :rtype: int
+    """
+  def getMin(self):
+    """
+    :rtype: int
+    """
+```

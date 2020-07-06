@@ -55,3 +55,16 @@ In the matrix days, all the values are integers in the range [0, 7].
 You could stay at a city beyond the number of vacation days, but you should work on the extra days, which won't be counted as vacation days.
 If you fly from the city A to the city B and take the vacation on that day, the deduction towards vacation days will count towards the vacation days of city B in that week.
 We don't consider the impact of flight hours towards the calculation of vacation days.
+
+
+
+
+```python
+class Solution(object):
+  def maxVacationDays(self, flights, days):
+    """
+    :type flights: List[List[int]]
+    :type days: List[List[int]]
+    :rtype: int
+    """
+```

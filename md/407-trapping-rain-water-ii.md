@@ -26,3 +26,14 @@ The above image represents the elevation map [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3
 
 
 After the rain, water are trapped between the blocks. The total volume of water trapped is 4.
+
+
+
+```python
+class Solution(object):
+  def trapRainWater(self, heightMap):
+    """
+    :type heightMap: List[List[int]]
+    :rtype: int
+    """
+```

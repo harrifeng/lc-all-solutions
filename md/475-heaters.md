@@ -26,3 +26,16 @@ Example 2:
 Input: [1,2,3,4],[1,4]
 Output: 1
 Explanation: The two heater was placed in the position 1 and 4. We need to use radius 1 standard, then all the houses can be warmed.
+
+
+
+
+```python
+class Solution(object):
+  def findRadius(self, houses, heaters):
+    """
+    :type houses: List[int]
+    :type heaters: List[int]
+    :rtype: int
+    """
+```

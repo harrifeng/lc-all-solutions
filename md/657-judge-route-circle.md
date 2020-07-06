@@ -17,3 +17,15 @@ Example 2:
 
 Input: "LL"
 Output: false
+
+
+
+
+```python
+class Solution(object):
+  def judgeCircle(self, moves):
+    """
+    :type moves: str
+    :rtype: bool
+    """
+```

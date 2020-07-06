@@ -38,3 +38,14 @@ After applying operation [0, 2, -2]:
 
 
 Credits:Special thanks to @vinod23 for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def getModifiedArray(self, length, updates):
+    """
+    :type length: int
+    :type updates: List[List[int]]
+    :rtype: List[int]
+    """
+```

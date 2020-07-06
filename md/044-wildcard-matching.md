@@ -17,3 +17,15 @@ isMatch("aa", "*") &rarr; true
 isMatch("aa", "a*") &rarr; true
 isMatch("ab", "?*") &rarr; true
 isMatch("aab", "c*a*b") &rarr; false
+
+
+
+```python
+class Solution(object):
+  def isMatch(self, s, p):
+    """
+    :type s: str
+    :type p: str
+    :rtype: bool
+    """
+```

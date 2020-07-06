@@ -17,3 +17,16 @@ The average value of nodes on level 0 is 3,  on level 1 is 14.5, and on level 2 
 Note:
 
 The range of node's value is in the range of 32-bit signed integer.
+
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def averageOfLevels(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[float]
+    """
+```

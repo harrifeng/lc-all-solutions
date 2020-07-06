@@ -40,3 +40,15 @@ Return false.
 The first 3 bits are all one's and the 4th bit is 0 means it is a 3-bytes character.
 The next byte is a continuation byte which starts with 10 and that's correct.
 But the second continuation byte does not start with 10, so it is invalid.
+
+
+
+
+```python
+class Solution(object):
+  def validUtf8(self, data):
+    """
+    :type data: List[int]
+    :rtype: bool
+    """
+```

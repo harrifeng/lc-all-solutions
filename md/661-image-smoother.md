@@ -21,3 +21,15 @@ Note:
 
 The value in the given matrix is in the range of [0, 255].
 The length and width of the given matrix are in the range of [1, 150].
+
+
+
+
+```python
+class Solution(object):
+  def imageSmoother(self, M):
+    """
+    :type M: List[List[int]]
+    :rtype: List[List[int]]
+    """
+```

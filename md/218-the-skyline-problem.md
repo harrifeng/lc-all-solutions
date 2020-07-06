@@ -31,3 +31,13 @@ Notes:
 
 
 Credits:Special thanks to @stellari for adding this problem, creating these two awesome images and all test cases.
+
+
+```python
+class Solution(object):
+  def getSkyline(self, buildings):
+    """
+    :type buildings: List[List[int]]
+    :rtype: List[List[int]]
+    """
+```

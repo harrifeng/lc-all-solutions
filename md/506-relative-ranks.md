@@ -13,3 +13,16 @@ Note:
 
 N is a positive integer and won't exceed 10,000.
 All the scores of athletes are guaranteed to be unique.
+
+
+
+
+
+```python
+class Solution(object):
+  def findRelativeRanks(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[str]
+    """
+```

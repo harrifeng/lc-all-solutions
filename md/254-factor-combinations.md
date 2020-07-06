@@ -44,3 +44,16 @@ input: 37
   [2, 4, 4],
   [4, 8]
 ]
+
+
+
+
+```python
+class Solution(object):
+  def getFactors(self, n):
+    """
+    :type n: int
+    :rtype: List[List[int]]
+    """
+  def dfsHelper(self, n, res, path, start):
+```

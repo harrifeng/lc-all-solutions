@@ -6,3 +6,20 @@ Note:
 You may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def findKthLargest(self, nums, k):
+    """
+    :type A: List[int]
+    :type k: int
+    :rtype: int
+    """
+  def maxProfit(self, k, prices):
+    """
+    :type k: int
+    :type prices: List[int]
+    :rtype: int
+    """
+```

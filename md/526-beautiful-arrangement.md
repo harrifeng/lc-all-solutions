@@ -27,3 +27,15 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 Note:
 
 N is a positive integer and will not exceed 15.
+
+
+
+
+```python
+class Solution(object):
+  def countArrangement(self, N):
+    """
+    :type N: int
+    :rtype: int
+    """
+```

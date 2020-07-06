@@ -5,3 +5,14 @@ Return the total number of ways you can paint the fence.
 
 Note:
 n and k are non-negative integers.
+
+
+```python
+class Solution(object):
+  def numWays(self, n, k):
+    """
+    :type n: int
+    :type k: int
+    :rtype: int
+    """
+```

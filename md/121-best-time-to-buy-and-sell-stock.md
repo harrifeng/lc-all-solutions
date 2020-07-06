@@ -17,3 +17,15 @@ Input: [7, 6, 4, 3, 1]
 Output: 0
 
 In this case, no transaction is done, i.e. max profit = 0.
+
+
+
+
+```python
+class Solution(object):
+  def maxProfit(self, prices):
+    """
+    :type prices: List[int]
+    :rtype: int
+    """
+```

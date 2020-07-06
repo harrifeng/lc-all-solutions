@@ -18,3 +18,15 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 
 Note:
 1 <= n <= 109
+
+
+
+
+```python
+class Solution(object):
+  def findIntegers(self, num):
+    """
+    :type num: int
+    :rtype: int
+    """
+```

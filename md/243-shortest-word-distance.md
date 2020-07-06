@@ -10,3 +10,16 @@ Given word1 = "makes", word2 = "coding", return 1.
 
 Note:
 You may assume that word1 does not equal to word2, and word1 and word2 are both in the list.
+
+
+
+```python
+class Solution(object):
+  def shortestDistance(self, words, word1, word2):
+    """
+    :type words: List[str]
+    :type word1: str
+    :type word2: str
+    :rtype: int
+    """
+```

@@ -32,3 +32,15 @@ All arithmetic subsequence slices are:
 [4,6,8,10]
 [2,4,6,8,10]
 [2,6,10]
+
+
+
+
+```python
+class Solution(object):
+  def numberOfArithmeticSlices(self, A):
+    """
+    :type A: List[int]
+    :rtype: int
+    """
+```

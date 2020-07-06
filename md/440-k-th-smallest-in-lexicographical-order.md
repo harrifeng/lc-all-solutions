@@ -12,3 +12,18 @@ Output:
 
 Explanation:
 The lexicographical order is [1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9], so the second smallest number is 10.
+
+
+
+
+
+```python
+class Solution(object):
+  def _findKthNumber(self, n, k):
+    """
+    :type n: int
+    :type k: int
+    :rtype: int
+    """
+  def findKthNumber(self, n, k):
+```

@@ -22,3 +22,15 @@ Explanation: The longest chain is [1,2] -> [3,4]
 Note:
 
 The number of given pairs will be in the range [1, 1000].
+
+
+
+
+```python
+class Solution(object):
+  def findLongestChain(self, pairs):
+    """
+    :type pairs: List[List[int]]
+    :rtype: int
+    """
+```

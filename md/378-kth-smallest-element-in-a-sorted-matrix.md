@@ -19,3 +19,14 @@ return 13.
 
 Note:
 You may assume k is always valid, 1 &le; k &le; n2.
+
+
+```python
+class Solution(object):
+  def kthSmallest(self, matrix, k):
+    """
+    :type matrix: List[List[int]]
+    :type k: int
+    :rtype: int
+    """
+```

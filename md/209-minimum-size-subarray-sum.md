@@ -14,3 +14,14 @@ If you have figured out the O(n) solution, try coding another solution of which 
 
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def minSubArrayLen(self, target, nums):
+    """
+    :type target: int
+    :type nums: List[int]
+    :rtype: int
+    """
+```

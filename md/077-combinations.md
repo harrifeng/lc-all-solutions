@@ -15,3 +15,10 @@ If n = 4 and k = 2, a solution is:
   [1,3],
   [1,4],
 ]
+
+
+
+```python
+class Solution(object):
+  def combine(self, n, k):
+```

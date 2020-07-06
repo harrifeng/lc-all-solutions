@@ -51,3 +51,17 @@ There is only one ball and one destination in the maze.
 Both the ball and the destination exist on an empty space, and they will not be at the same position initially.
 The given maze does not contain border (like the red rectangle in the example pictures), but you could assume the border of the maze are all walls.
 The maze contains at least 2 empty spaces, and both the width and height of the maze won't exceed 100.
+
+
+
+
+```python
+class Solution(object):
+  def shortestDistance(self, maze, ball, hole):
+    """
+    :type maze: List[List[int]]
+    :type start: List[int]
+    :type destination: List[int]
+    :rtype: int
+    """
+```

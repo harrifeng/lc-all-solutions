@@ -19,3 +19,13 @@ Could you do better than O(n2)?
 
 
 Credits:Special thanks to @memoryless for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isReflected(self, points):
+    """
+    :type points: List[List[int]]
+    :rtype: bool
+    """
+```

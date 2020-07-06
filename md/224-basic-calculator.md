@@ -14,3 +14,14 @@ Some examples:
 
 
 Note: Do not use the eval built-in library function.
+
+
+
+```python
+class Solution(object):
+  def calculate(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

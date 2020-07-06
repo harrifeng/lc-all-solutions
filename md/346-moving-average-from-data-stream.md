@@ -7,3 +7,19 @@ m.next(1) = 1
 m.next(10) = (1 + 10) / 2
 m.next(3) = (1 + 10 + 3) / 3
 m.next(5) = (10 + 3 + 5) / 3
+
+
+
+
+```python
+from collections import deque
+  def __init__(self, size):
+    """
+    :type size: int
+    """
+  def next(self, val):
+    """
+    :type val: int
+    :rtype: float
+    """
+```

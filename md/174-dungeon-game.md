@@ -48,3 +48,13 @@ Any room can contain threats or power-ups, even the first room the knight enters
 
 
 Credits:Special thanks to @stellari for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def calculateMinimumHP(self, dungeon):
+    """
+    :type dungeon: List[List[int]]
+    :rtype: int
+    """
+```

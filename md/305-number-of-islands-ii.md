@@ -40,3 +40,18 @@ We return the result as an array: [1, 1, 2, 3]
 
 Challenge:
 Can you do it in time complexity O(k log mn), where k is the length of the positions?
+
+
+```python
+  def __init__(self, m, n):
+  def find(self, x):
+  def union(self, xy):
+class Solution(object):
+  def numIslands2(self, m, n, positions):
+    """
+    :type m: int
+    :type n: int
+    :type positions: List[List[int]]
+    :rtype: List[int]
+    """
+```

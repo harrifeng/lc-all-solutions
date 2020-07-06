@@ -19,3 +19,16 @@ Note:
 Each given array will have at least 1 number. There will be at least two non-empty arrays.
 The total number of the integers in all the m arrays will be in the range of [2, 10000].
 The integers in the m arrays will be in the range of [-10000, 10000].
+
+
+
+
+```python
+class Solution(object):
+  def _maxDistance(self, arrays):
+    """
+    :type arrays: List[List[int]]
+    :rtype: int
+    """
+  def maxDistance(self, arrays):
+```

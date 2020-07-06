@@ -27,3 +27,14 @@ Example 2:
   2   3
 
 Binary tree [1,2,3], return false.
+
+
+
+```python
+class Solution(object):
+  def isValidBST(self, root):
+    """
+    :type root: TreeNode
+    :rtype: bool
+    """
+```

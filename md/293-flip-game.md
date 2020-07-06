@@ -18,3 +18,13 @@ For example, given s = "++++", after one move, it may become one of the followin
 
 
 If there is no valid move, return an empty list [].
+
+
+```python
+class Solution(object):
+  def generatePossibleNextMoves(self, s):
+    """
+    :type s: str
+    :rtype: List[str]
+    """
+```

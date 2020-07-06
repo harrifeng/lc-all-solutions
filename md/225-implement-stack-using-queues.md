@@ -23,3 +23,28 @@ You may assume that all operations are valid (for example, no pop or top operati
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and all test cases.
+
+
+```python
+from collections import deque
+  def __init__(self):
+    """
+    """
+  def push(self, x):
+    """
+    :type x: int
+    :rtype: nothing
+    """
+  def pop(self):
+    """
+    :rtype: nothing
+    """
+  def top(self):
+    """
+    :rtype: int
+    """
+  def empty(self):
+    """
+    :rtype: bool
+    """
+```

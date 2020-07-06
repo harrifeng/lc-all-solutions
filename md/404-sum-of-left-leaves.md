@@ -9,3 +9,15 @@ Example:
    15   7
 
 There are two left leaves in the binary tree, with values 9 and 15 respectively. Return 24.
+
+
+
+
+```python
+class Solution(object):
+  def sumOfLeftLeaves(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

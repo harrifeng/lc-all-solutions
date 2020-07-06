@@ -40,3 +40,11 @@ Person #1 gave person #2 $5.
 Person #2 gave person #0 $5.
 
 Therefore, person #1 only need to give person #0 $4, and all debt is settled.
+
+
+
+
+```python
+class Solution(object):
+  def minTransfers(self, transactions):
+```

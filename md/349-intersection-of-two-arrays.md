@@ -10,3 +10,16 @@ Note:
 
 Each element in the result must be unique.
 The result can be in any order.
+
+
+
+
+```python
+class Solution(object):
+  def intersection(self, nums1, nums2):
+    """
+    :type nums1: List[int]
+    :type nums2: List[int]
+    :rtype: List[int]
+    """
+```

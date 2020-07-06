@@ -19,3 +19,16 @@ Examples:
 "apple", ["blade"] -> "a4" (because "5" or "4e" conflicts with "blade")
 
 "apple", ["plain", "amber", "blade"] -> "1p3" (other valid answers include "ap3", "a3e", "2p2", "3le", "3l1").
+
+
+
+
+```python
+class Solution(object):
+  def minAbbreviation(self, target, dictionary):
+    """
+    :type target: str
+    :type dictionary: List[str]
+    :rtype: str
+    """
+```

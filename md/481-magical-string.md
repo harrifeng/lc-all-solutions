@@ -41,3 +41,15 @@ Example 1:
 Input: 6
 Output: 3
 Explanation: The first 6 elements of magical string S is "12211" and it contains three 1's, so return 3.
+
+
+
+
+```python
+class Solution(object):
+  def magicalString(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

@@ -6,3 +6,14 @@ Return: 1 --> 2 --> 3 --> 4 --> 5
 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def removeElements(self, head, val):
+    """
+    :type head: ListNode
+    :type val: int
+    :rtype: ListNode
+    """
+```

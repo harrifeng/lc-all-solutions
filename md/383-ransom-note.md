@@ -14,3 +14,16 @@ You may assume that both strings contain only lowercase letters.
 canConstruct("a", "b") -> false
 canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
+
+
+
+
+```python
+class Solution(object):
+  def canConstruct(self, ransomNote, magazine):
+    """
+    :type ransomNote: str
+    :type magazine: str
+    :rtype: bool
+    """
+```

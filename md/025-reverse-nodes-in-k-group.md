@@ -20,3 +20,15 @@ For k = 2, you should return: 2->1->4->3->5
 
 
 For k = 3, you should return: 3->2->1->4->5
+
+
+
+```python
+class Solution(object):
+  def reverseKGroup(self, head, k):
+    """
+    :type head: ListNode
+    :type k: int
+    :rtype: ListNode
+    """
+```

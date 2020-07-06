@@ -54,3 +54,9 @@ toe.move(2, 1, 1); -> Returns 1 (player 1 wins)
 
 Follow up:
 Could you do better than O(n2) per move() operation?
+
+
+
+```python
+  def __init__(self, n):
+```

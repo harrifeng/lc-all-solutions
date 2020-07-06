@@ -13,3 +13,14 @@ Given "paper", "title", return true.
 
 Note:
 You may assume both s and t have the same length.
+
+
+```python
+class Solution(object):
+  def isIsomorphic(self, s, t):
+    """
+    :type s: str
+    :type t: str
+    :rtype: bool
+    """
+```

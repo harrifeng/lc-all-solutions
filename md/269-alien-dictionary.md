@@ -54,3 +54,18 @@ You may assume all letters are in lowercase.
 You may assume that if a is a prefix of b, then a must appear before b in the given dictionary.
 If the order is invalid, return an empty string.
 There may be multiple valid order of letters, return any one of them is fine.
+
+
+
+
+```python
+  def __init__(self, val):
+  def connect(self, node):
+  def getNbrs(self):
+class Solution(object):
+  def alienOrder(self, words):
+    """
+    :type words: List[str]
+    :rtype: str
+    """
+```

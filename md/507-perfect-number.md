@@ -13,3 +13,14 @@ Explanation: 28 = 1 + 2 + 4 + 7 + 14
 
 Note:
 The input number n will not exceed 100,000,000. (1e8)
+
+
+
+```python
+class Solution(object):
+  def checkPerfectNumber(self, num):
+    """
+    :type num: int
+    :rtype: bool
+    """
+```

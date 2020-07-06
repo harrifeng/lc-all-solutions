@@ -11,3 +11,13 @@ For example:
     AB -&gt; 28
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def titleToNumber(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

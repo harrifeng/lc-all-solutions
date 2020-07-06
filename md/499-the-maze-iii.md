@@ -52,3 +52,17 @@ There is only one ball and one hole in the maze.
 Both the ball and hole exist on an empty space, and they will not be at the same position initially.
 The given maze does not contain border (like the red rectangle in the example pictures), but you could assume the border of the maze are all walls.
 The maze contains at least 2 empty spaces, and the width and the height of the maze won't exceed 30.
+
+
+
+
+```python
+class Solution(object):
+  def findShortestWay(self, maze, ball, hole):
+    """
+    :type maze: List[List[int]]
+    :type ball: List[int]
+    :type hole: List[int]
+    :rtype: str
+    """
+```

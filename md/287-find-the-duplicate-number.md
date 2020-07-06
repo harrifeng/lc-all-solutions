@@ -13,3 +13,13 @@ There is only one duplicate number in the array, but it could be repeated more t
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def findDuplicate(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

@@ -10,3 +10,15 @@ Return 2. Because there are two triplets which sums are less than 2:
 
 Follow up:
 Could you solve it in O(n2) runtime?
+
+
+
+```python
+class Solution(object):
+  def threeSumSmaller(self, nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: int
+    """
+```

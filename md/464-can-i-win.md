@@ -24,3 +24,16 @@ The first player can choose an integer from 1 up to 10.
 If the first player choose 1, the second player can only choose integers from 2 up to 10.
 The second player will win by choosing 10 and get a total = 11, which is >= desiredTotal.
 Same with other integers chosen by the first player, the second player will always win.
+
+
+
+
+```python
+class Solution(object):
+  def canIWin(self, maxChoosableInteger, desiredTotal):
+    """
+    :type maxChoosableInteger: int
+    :type desiredTotal: int
+    :rtype: bool
+    """
+```

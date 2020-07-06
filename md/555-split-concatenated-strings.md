@@ -22,3 +22,15 @@ Note:
 
 The input strings will only contain lowercase letters.
 The total length of all the strings will not over 1,000.
+
+
+
+
+```python
+class Solution(object):
+  def splitLoopedString(self, strs):
+    """
+    :type strs: List[str]
+    :rtype: str
+    """
+```

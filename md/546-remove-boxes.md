@@ -24,3 +24,11 @@ Explanation:
 
 Note:
 The number of boxes n would not exceed 100.
+
+
+
+
+```python
+class Solution(object):
+  def removeBoxes(self, A):
+```

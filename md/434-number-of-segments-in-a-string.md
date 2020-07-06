@@ -6,3 +6,15 @@ Example:
 
 Input: "Hello, my name is John"
 Output: 5
+
+
+
+
+```python
+class Solution(object):
+  def countSegments(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

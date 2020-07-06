@@ -9,3 +9,14 @@ Here is an example of version numbers ordering:
 0.1 &lt; 1.1 &lt; 1.2 &lt; 13.37
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def compareVersion(self, version1, version2):
+    """
+    :type version1: str
+    :type version2: str
+    :rtype: int
+    """
+```

@@ -32,3 +32,15 @@ Output: False
 Note:
 
 The length of the input is in range of [1, 10000]
+
+
+
+
+```python
+class Solution(object):
+  def isPossible(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: bool
+    """
+```

@@ -48,3 +48,15 @@ The left boundary are node 1,2,4. (4 is the left-most node according to definiti
 The leaves are node 4,7,8,9,10.
 The right boundary are node 1,3,6,10. (10 is the right-most node).
 So order them in anti-clockwise without duplicate nodes we have [1,2,4,7,8,9,10,6,3].
+
+
+
+
+```python
+class Solution(object):
+  def boundaryOfBinaryTree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[int]
+    """
+```

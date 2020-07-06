@@ -12,3 +12,15 @@ Output:
 
 Explanation:
 One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] and [1,6]) and another arrow at x = 11 (bursting the other two balloons).
+
+
+
+
+```python
+class Solution(object):
+  def findMinArrowShots(self, points):
+    """
+    :type points: List[List[int]]
+    :rtype: int
+    """
+```

@@ -26,3 +26,16 @@ In step 3, we use Paste operation to get 'AAA'.
 Note:
 
 The n will be in the range [1, 1000].
+
+
+
+
+```python
+class Solution(object):
+  def _minSteps(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+  def minSteps(self, n):
+```

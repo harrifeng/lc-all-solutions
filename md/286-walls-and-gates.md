@@ -26,3 +26,15 @@ After running your function, the 2D grid should be:
   2   2   1  -1
   1  -1   2  -1
   0  -1   3   4
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def wallsAndGates(self, rooms):
+    """
+    :type rooms: List[List[int]]
+    :rtype: void Do not return anything, modify rooms in-place instead.
+    """
+```

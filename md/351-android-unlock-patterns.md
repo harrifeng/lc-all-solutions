@@ -41,3 +41,14 @@ Given m = 1, n = 1, return 9.
 
 
 Credits:Special thanks to @elmirap for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def numberOfPatterns(self, m, n):
+    """
+    :type m: int
+    :type n: int
+    :rtype: int
+    """
+```

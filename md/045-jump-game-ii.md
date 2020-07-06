@@ -19,3 +19,13 @@ The minimum number of jumps to reach the last index is 2. (Jump 1 step from inde
 
 Note:
 You can assume that you can always reach the last index.
+
+
+```python
+class Solution(object):
+  def jump(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

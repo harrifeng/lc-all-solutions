@@ -17,3 +17,15 @@ isMatch("aa", "a*") → true
 isMatch("aa", ".*") → true
 isMatch("ab", ".*") → true
 isMatch("aab", "c*a*b") → true
+
+
+
+```python
+class Solution(object):
+  def isMatch(self, s, p):
+    """
+    :type s: str
+    :type p: str
+    :rtype: bool
+    """
+```

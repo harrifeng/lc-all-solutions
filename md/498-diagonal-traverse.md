@@ -19,3 +19,15 @@ Explanation:
 Note:
 
 The total number of elements of the given matrix will not exceed 10,000.
+
+
+
+
+```python
+class Solution(object):
+  def findDiagonalOrder(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    :rtype: List[int]
+    """
+```

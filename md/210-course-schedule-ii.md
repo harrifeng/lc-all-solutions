@@ -30,3 +30,16 @@ Hints:
 This problem is equivalent to finding the topological order in a directed graph. If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.
 Topological Sort via DFS - A great video tutorial (21 minutes) on Coursera explaining the basic concepts of Topological Sort.
 Topological sort could also be done via BFS.
+
+
+
+
+```python
+class Solution(object):
+  def findOrder(self, numCourses, prerequisites):
+    """
+    :type numCourses: int
+    :type prerequisites: List[List[int]]
+    :rtype: List[int]
+    """
+```

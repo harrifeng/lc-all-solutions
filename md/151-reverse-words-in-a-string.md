@@ -25,3 +25,16 @@ Could the input string contain leading or trailing spaces?
 Yes. However, your reversed string should not contain leading or trailing spaces.
 How about multiple spaces between two words?
 Reduce them to a single space in the reversed string.
+
+
+
+
+
+```python
+class Solution(object):
+  def reverseWords(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

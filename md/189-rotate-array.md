@@ -13,3 +13,14 @@ Could you do it in-place with O(1) extra space?
 Related problem: Reverse Words in a String II
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def rotate(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: void Do not return anything, modify nums in-place instead.
+    """
+```

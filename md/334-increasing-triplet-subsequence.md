@@ -22,3 +22,13 @@ return false.
 
 
 Credits:Special thanks to @DjangoUnchained for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def increasingTriplet(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: bool
+    """
+```

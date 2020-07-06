@@ -36,3 +36,20 @@ What if the number of hits per second could be very large? Does your design scal
 
 
 Credits:Special thanks to @elmirap for adding this problem and creating all test cases.
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def hit(self, timestamp):
+    """
+    :type timestamp: int
+    :rtype: void
+    """
+  def getHits(self, timestamp):
+    """
+    :type timestamp: int
+    :rtype: int
+    """
+```

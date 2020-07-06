@@ -26,3 +26,14 @@ How does it change the problem?
 What limitation we need to add to the question to allow negative numbers?
 
 Credits:Special thanks to @pbrother for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def combinationSum4(self, nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: int
+    """
+```

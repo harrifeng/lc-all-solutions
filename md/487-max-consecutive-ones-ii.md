@@ -20,3 +20,19 @@ The length of input array is a positive integer and will not exceed 10,000
 
 Follow up:
 What if the input numbers come in one by one as an infinite stream? In other words, you can't store all numbers coming from the stream as it's too large to hold in memory. Could you solve it efficiently?
+
+
+
+```python
+class Solution(object):
+  def __init__(self):
+  def findMaxConsecutiveOnes(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+  def readNum(self, num):
+    """
+    :type nums: int
+    """
+```

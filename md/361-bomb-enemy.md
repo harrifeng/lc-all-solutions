@@ -14,3 +14,13 @@ return 3. (Placing a bomb at (1,1) kills 3 enemies)
 
 
 Credits:Special thanks to @memoryless for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def maxKilledEnemies(self, grid):
+    """
+    :type grid: List[List[str]]
+    :rtype: int
+    """
+```

@@ -11,3 +11,10 @@ Input:
 
 Output:
 [2,3]
+
+
+
+```python
+class Solution(object):
+  def findDuplicates(self, nums):
+```

@@ -19,3 +19,14 @@ Explanation: [0, 1] (or [1, 0]) is a longest contiguous subarray with equal numb
 
 Note:
 The length of the given binary array will not exceed 50,000.
+
+
+
+```python
+class Solution(object):
+  def findMaxLength(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

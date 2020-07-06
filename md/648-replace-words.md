@@ -28,3 +28,17 @@ The input will only have lower-case letters.
  1 <= sentence words number <= 1000
  1 <= root length <= 100
  1 <= sentence words length <= 1000
+
+
+
+
+```python
+  def __init__(self):
+class Solution(object):
+  def replaceWords(self, dict, sentence):
+    """
+    :type dict: List[str]
+    :type sentence: str
+    :rtype: str
+    """
+```

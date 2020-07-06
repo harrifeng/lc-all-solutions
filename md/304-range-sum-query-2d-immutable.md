@@ -26,3 +26,21 @@ Note:
 You may assume that the matrix does not change.
 There are many calls to sumRegion function.
 You may assume that row1 &le; row2 and col1 &le; col2.
+
+
+
+
+```python
+  def __init__(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    """
+  def sumRegion(self, row1, col1, row2, col2):
+    """
+    :type row1: int
+    :type col1: int
+    :type row2: int
+    :type col2: int
+    :rtype: int
+    """
+```

@@ -22,3 +22,14 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 Note:
 There are at least two nodes in this BST.
+
+
+
+```python
+class Solution(object):
+  def getMinimumDifference(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

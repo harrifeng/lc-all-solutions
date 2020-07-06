@@ -29,3 +29,16 @@ Output: return the tree root node representing the following tree:
 Note:
 
 The size of the given array will be in the range [1,1000].
+
+
+
+
+```python
+class Solution(object):
+  def _constructMaximumBinaryTree(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: TreeNode
+    """
+  def constructMaximumBinaryTree(self, nums):
+```

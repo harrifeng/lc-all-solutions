@@ -14,3 +14,15 @@ For example,
   [3,1,2],
   [3,2,1]
 ]
+
+
+
+
+```python
+class Solution(object):
+  def permute(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
+```

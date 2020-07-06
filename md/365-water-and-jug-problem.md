@@ -27,3 +27,15 @@ Output: False
 
 
 Credits:Special thanks to @vinod23 for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def canMeasureWater(self, x, y, z):
+    """
+    :type x: int
+    :type y: int
+    :type z: int
+    :rtype: bool
+    """
+```

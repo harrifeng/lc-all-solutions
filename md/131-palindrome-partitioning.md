@@ -13,3 +13,15 @@ Return
   ["aa","b"],
   ["a","a","b"]
 ]
+
+
+
+
+```python
+class Solution(object):
+  def partition(self, s):
+    """
+    :type s: str
+    :rtype: List[List[str]]
+    """
+```

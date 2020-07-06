@@ -9,3 +9,16 @@ Example:
 
 Answer: 16
 Explanation: The perimeter is the 16 yellow stripes in the image below:
+
+
+
+
+
+```python
+class Solution(object):
+  def islandPerimeter(self, grid):
+    """
+    :type grid: List[List[int]]
+    :rtype: int
+    """
+```

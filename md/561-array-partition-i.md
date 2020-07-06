@@ -15,3 +15,15 @@ Note:
 
 n is a positive integer, which is in the range of [1, 10000].
 All the integers in the array will be in the range of [-10000, 10000].
+
+
+
+
+```python
+class Solution(object):
+  def arrayPairSum(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

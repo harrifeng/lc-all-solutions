@@ -29,3 +29,15 @@ Note:
 
 The range of n is [3, 10^18].
 The string representing n is always valid and will not have leading zeros.
+
+
+
+
+```python
+class Solution(object):
+  def smallestGoodBase(self, n):
+    """
+    :type n: str
+    :rtype: str
+    """
+```

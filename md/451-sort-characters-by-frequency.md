@@ -39,3 +39,16 @@ Output:
 Explanation:
 "bbaA" is also a valid answer, but "Aabb" is incorrect.
 Note that 'A' and 'a' are treated as two different characters.
+
+
+
+
+```python
+from collections import Counter
+class Solution(object):
+  def frequencySort(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

@@ -34,3 +34,14 @@ Output:
 
 Note:
 You may assume the tree (i.e., the given root node) is not NULL.
+
+
+
+```python
+class Solution(object):
+  def findBottomLeftValue(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

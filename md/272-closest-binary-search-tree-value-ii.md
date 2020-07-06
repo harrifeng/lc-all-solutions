@@ -9,3 +9,16 @@ You are guaranteed to have only one unique set of k values in the BST that are c
 
 Follow up:
 Assume that the BST is balanced, could you solve it in less than O(n) runtime (where n = total nodes)?
+
+
+
+```python
+class Solution(object):
+  def closestKValues(self, root, target, k):
+    """
+    :type root: TreeNode
+    :type target: float
+    :type k: int
+    :rtype: List[int]
+    """
+```

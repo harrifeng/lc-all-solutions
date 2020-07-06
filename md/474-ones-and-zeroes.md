@@ -28,3 +28,17 @@ Input: Array = {"10", "0", "1"}, m = 1, n = 1
 Output: 2
 
 Explanation: You could form "10", but then you'd have nothing left. Better form "0" and "1".
+
+
+
+
+```python
+class Solution(object):
+  def findMaxForm(self, strs, m, n):
+    """
+    :type strs: List[str]
+    :type m: int
+    :type n: int
+    :rtype: int
+    """
+```

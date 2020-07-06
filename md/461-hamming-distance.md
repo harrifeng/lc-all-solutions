@@ -18,3 +18,16 @@ Explanation:
        &uarr;   &uarr;
 
 The above arrows point to positions where the corresponding bits are different.
+
+
+
+
+```python
+class Solution(object):
+  def hammingDistance(self, x, y):
+    """
+    :type x: int
+    :type y: int
+    :rtype: int
+    """
+```

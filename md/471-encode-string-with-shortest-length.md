@@ -49,3 +49,15 @@ Example 5:
 Input: "abbbabbbcabbbabbbc"
 Output: "2[2[abbb]c]"
 Explanation: "abbbabbbc" occurs twice, but "abbbabbbc" can also be encoded to "2[abbb]c", so one answer can be "2[2[abbb]c]".
+
+
+
+
+```python
+class Solution(object):
+  def encode(self, s, dp={}):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

@@ -18,3 +18,15 @@ n = 9,
 
 Output:
 6
+
+
+
+
+```python
+class Solution(object):
+  def lastRemaining(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

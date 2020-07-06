@@ -24,3 +24,13 @@ Can you do it in O(n) time?
 
 
 Credits:Special thanks to @agave and @StefanPochmann for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def wiggleMaxLength(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

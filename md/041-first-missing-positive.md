@@ -10,3 +10,14 @@ and [3,4,-1,1] return 2.
 
 
 Your algorithm should run in O(n) time and uses constant space.
+
+
+
+```python
+class Solution(object):
+  def firstMissingPositive(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

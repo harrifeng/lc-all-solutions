@@ -15,3 +15,15 @@ Note: It is intended for the problem statement to be ambiguous. You should gathe
 
 Update (2015-02-10):
 The signature of the C++ function had been updated. If you still see your function signature accepts a const char * argument, please click the reload button  to reset your code definition.
+
+
+
+```python
+  def __init__(self):
+class Solution(object):
+  def isNumber(self, s):
+    """
+    :type s: str
+    :rtype: bool
+    """
+```

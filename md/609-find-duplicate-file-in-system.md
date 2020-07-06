@@ -38,3 +38,14 @@ Follow-up beyond contest:
  If you can only read the file by 1kb each time, how will you modify your solution?
  What is the time complexity of your modified solution? What is the most time-consuming part and memory consuming part of it? How to optimize?
  How to make sure the duplicated files you find are not false positive?
+
+
+
+```python
+class Solution(object):
+  def findDuplicate(self, paths):
+    """
+    :type paths: List[str]
+    :rtype: List[List[str]]
+    """
+```

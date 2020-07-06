@@ -53,3 +53,37 @@ Note:
 You could assume that there won't be any circular sum reference. For example, A1 = sum(B1) and B1 = sum(A1).
  The test cases are using double-quotes to represent a character.
 Please remember to RESET your class variables declared in class Excel, as static/class variables are persisted across multiple test cases. Please see here for more details.
+
+
+
+
+```python
+  def __init__(self, H, W):
+    """
+    :type H: int
+    :type W: str
+    """
+  def decodeCoord(self, r, c):
+  def set(self, r, c, v):
+    """
+    :type r: int
+    :type c: str
+    :type v: int
+    :rtype: void
+    """
+  def get(self, r, c):
+    """
+    :type r: int
+    :type c: str
+    :rtype: int
+    """
+  def computeFormula(self, strs):
+  def parseRange(self, s):
+  def sum(self, r, c, strs):
+    """
+    :type r: int
+    :type c: str
+    :type strs: List[str]
+    :rtype: int
+    """
+```

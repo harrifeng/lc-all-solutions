@@ -13,3 +13,14 @@ Given s = "leetcode", return "leotcede".
 
 Note:
 The vowels does not include the letter "y".
+
+
+
+```python
+class Solution(object):
+  def reverseVowels(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

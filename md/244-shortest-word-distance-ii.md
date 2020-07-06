@@ -14,3 +14,18 @@ Given word1 = "makes", word2 = "coding", return 1.
 
 Note:
 You may assume that word1 does not equal to word2, and word1 and word2 are both in the list.
+
+
+
+```python
+  def __init__(self, words):
+    """
+    :type words: List[str]
+    """
+  def shortest(self, word1, word2):
+    """
+    :type word1: str
+    :type word2: str
+    :rtype: int
+    """
+```

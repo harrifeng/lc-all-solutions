@@ -20,3 +20,17 @@ Note:
  The length of each word is greater than 1.
  The words consist of lowercase English letters only.
  The return answers should be in the same order as the original array.
+
+
+
+```python
+class Solution(object):
+  def wordsAbbreviation(self, dict):
+    """
+    :type dict: List[str]
+    :rtype: List[str]
+    """
+  def checkUnique(self, prefix, words):
+  def getAbbr(self, word, prefix):
+  def getAbbreviation(self, word):
+```

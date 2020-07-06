@@ -5,3 +5,14 @@ Given a = 1 and b = 2, return 3.
 
 
 Credits:Special thanks to @fujiaozhu for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def getSum(self, num1, num2):
+    """
+    :type a: int
+    :type b: int
+    :rtype: int
+    """
+```

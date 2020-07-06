@@ -16,3 +16,17 @@ Note:
 
 The number of tasks is in the range [1, 10000].
 The integer n is in the range [0, 100].
+
+
+
+
+```python
+class Solution(object):
+  def _leastInterval(self, tasks, n):
+    """
+    :type tasks: List[str]
+    :type n: int
+    :rtype: int
+    """
+  def leastInterval(self, tasks, n):
+```

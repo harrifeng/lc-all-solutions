@@ -13,3 +13,15 @@ For example,
 Note:
 Given n will always be valid.
 Try to do this in one pass.
+
+
+
+```python
+class Solution(object):
+  def removeNthFromEnd(self, head, n):
+    """
+    :type head: ListNode
+    :type n: int
+    :rtype: ListNode
+    """
+```

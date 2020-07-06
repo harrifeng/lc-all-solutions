@@ -29,3 +29,16 @@ logger.shouldPrintMessage(11,"foo"); returns true;
 
 
 Credits:Special thanks to @memoryless for adding this problem and creating all test cases.
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def shouldPrintMessage(self, timestamp, message):
+    """
+    :type timestamp: int
+    :type message: str
+    :rtype: bool
+    """
+```

@@ -24,3 +24,22 @@ The "Zigzag" order is not clearly defined and is ambiguous for k > 2 cases. If "
 [8,9]
 
 It should return [1,4,8,2,5,9,3,6,7].
+
+
+
+```python
+from collections import deque
+  def __init__(self, v1, v2):
+    """
+    :type v1: List[int]
+    :type v2: List[int]
+    """
+  def next(self):
+    """
+    :rtype: int
+    """
+  def hasNext(self):
+    """
+    :rtype: bool
+    """
+```

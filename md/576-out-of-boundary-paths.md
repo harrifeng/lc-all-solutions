@@ -23,3 +23,11 @@ Note:
 Once you move the ball out of boundary, you cannot move it back.
 The length and height of the grid is in range [1,50].
 N is in range [0,50].
+
+
+
+
+```python
+class Solution(object):
+  def findPaths(self, m, n, N, x, y):
+```

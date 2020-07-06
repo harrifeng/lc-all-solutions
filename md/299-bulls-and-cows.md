@@ -22,3 +22,15 @@ In this case, the 1st 1 in friend's guess is a bull, the 2nd or 3rd 1 is a cow, 
 You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal.
 
 Credits:Special thanks to @jeantimex for adding this problem and creating all test cases.
+
+
+```python
+from collections import Counter
+class Solution(object):
+  def getHint(self, secret, guess):
+    """
+    :type secret: str
+    :type guess: str
+    :rtype: str
+    """
+```

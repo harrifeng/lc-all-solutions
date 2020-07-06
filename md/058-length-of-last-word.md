@@ -8,3 +8,14 @@ Note: A word is defined as a character sequence consists of non-space characters
 For example,
 Given s = "Hello World",
 return 5.
+
+
+
+```python
+class Solution(object):
+  def lengthOfLastWord(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

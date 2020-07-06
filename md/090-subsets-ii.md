@@ -17,3 +17,14 @@ If nums = [1,2,2], a solution is:
   [1,2],
   []
 ]
+
+
+
+```python
+class Solution(object):
+  def subsetsWithDup(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
+```

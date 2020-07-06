@@ -15,3 +15,13 @@ Your solution should be in logarithmic complexity.
 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def findPeakElement(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

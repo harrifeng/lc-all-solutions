@@ -30,3 +30,16 @@ You may assume that the initial row of balls on the table won’t have any 3 or 
 The number of balls on the table won't exceed 20, and the string represents these balls is called "board" in the input.
 The number of balls in your hand won't exceed 5, and the string represents these balls is called "hand" in the input.
 Both input strings will be non-empty and only contain characters 'R','Y','B','G','W'.
+
+
+
+
+```python
+class Solution(object):
+  def findMinStep(self, board, hand):
+    """
+    :type board: str
+    :type hand: str
+    :rtype: int
+    """
+```

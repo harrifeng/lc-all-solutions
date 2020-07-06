@@ -21,3 +21,15 @@ Note:
 
 All the given strings' lengths will not exceed 10.
 The length of the given list will be in the range of [2, 50].
+
+
+
+
+```python
+class Solution(object):
+  def findLUSlength(self, strs):
+    """
+    :type strs: List[str]
+    :rtype: int
+    """
+```

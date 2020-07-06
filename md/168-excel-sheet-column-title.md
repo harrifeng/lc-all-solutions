@@ -11,3 +11,13 @@ For example:
     28 -> AB
 
 Credits:Special thanks to @ifanchu for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def convertToTitle(self, n):
+    """
+    :type n: int
+    :rtype: str
+    """
+```

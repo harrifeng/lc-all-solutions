@@ -65,3 +65,14 @@ Explanation:The maximum width existing in the fourth level with the length 8 (6,
 
 Note:
 Answer will in the range of 32-bit signed integer.
+
+
+
+```python
+class Solution(object):
+  def widthOfBinaryTree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

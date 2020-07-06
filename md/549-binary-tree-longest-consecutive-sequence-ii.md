@@ -26,3 +26,16 @@ Explanation: The longest consecutive path is [1, 2, 3] or [3, 2, 1].
 
 Note:
 All the values of tree nodes are in the range of [-1e7, 1e7].
+
+
+
+
+
+```python
+class Solution(object):
+  def longestConsecutive(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

@@ -9,3 +9,13 @@ Given num = 5, return false.
 Follow up: Could you solve it without loops/recursion?
 
 Credits:Special thanks to @yukuairoy  for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isPowerOfFour(self, num):
+    """
+    :type num: int
+    :rtype: bool
+    """
+```

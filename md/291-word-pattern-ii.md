@@ -12,3 +12,15 @@ pattern = "aabb", str = "xyzabcxzyabc" should return false.
 
 Notes:
 You may assume both pattern and str contains only lowercase letters.
+
+
+
+```python
+class Solution(object):
+  def wordPatternMatch(self, pattern, str):
+    """
+    :type pattern: str
+    :type str: str
+    :rtype: bool
+    """
+```

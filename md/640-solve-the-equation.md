@@ -44,3 +44,15 @@ Example 5:
 
 Input: "x=x+2"
 Output: "No solution"
+
+
+
+
+```python
+class Solution(object):
+  def solveEquation(self, equation):
+    """
+    :type equation: str
+    :rtype: str
+    """
+```

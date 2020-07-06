@@ -10,3 +10,14 @@ Children with a higher rating get more candies than their neighbors.
 
 
 What is the minimum candies you must give?
+
+
+
+```python
+class Solution(object):
+  def candy(self, ratings):
+    """
+    :type ratings: List[int]
+    :rtype: int
+    """
+```

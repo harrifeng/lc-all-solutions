@@ -11,3 +11,21 @@ For example,
 add(1); add(3); add(5);
 find(4) -> true
 find(7) -> false
+
+
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def add(self, number):
+    """
+    :rtype: nothing
+    """
+  def find(self, value):
+    """
+    :type value: int
+    :rtype: bool
+    """
+```

@@ -10,3 +10,9 @@ If this function is called many times, how would you optimize it?
 Related problem: Reverse Integer
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
+
+
+```python
+class Solution:
+  def reverseBits(self, n):
+```
