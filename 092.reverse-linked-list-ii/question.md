@@ -13,3 +13,16 @@ return 1->4->3->2->5->NULL.
 Note:
 Given m, n satisfy the following condition:
 1 &le; m &le; n &le; length of list.
+
+
+
+```python
+class Solution(object):
+  def reverseBetween(self, head, m, n):
+    """
+    :type head: ListNode
+    :type m: int
+    :type n: int
+    :rtype: ListNode
+    """
+```

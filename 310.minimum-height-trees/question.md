@@ -64,3 +64,15 @@ You can assume that no duplicate edges will appear in edges. Since all edges are
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+from collections import deque
+class Solution(object):
+  def findMinHeightTrees(self, n, edges):
+    """
+    :type n: int
+    :type edges: List[List[int]]
+    :rtype: List[int]
+    """
+```

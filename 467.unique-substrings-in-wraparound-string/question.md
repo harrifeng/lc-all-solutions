@@ -27,3 +27,14 @@ Input: "zab"
 Output: 6
 Explanation: There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
 
+
+
+
+```python
+class Solution(object):
+  def findSubstringInWraproundString(self, p):
+    """
+    :type p: str
+    :rtype: int
+    """
+```

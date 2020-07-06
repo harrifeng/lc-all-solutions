@@ -10,3 +10,14 @@ Above is a 3 x 7 grid. How many possible unique paths are there?
 
 
 Note: m and n will be at most 100.
+
+
+```python
+class Solution(object):
+  def uniquePaths(self, m, n):
+    """
+    :type m: int
+    :type n: int
+    :rtype: int
+    """
+```

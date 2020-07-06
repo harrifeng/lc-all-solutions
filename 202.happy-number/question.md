@@ -12,3 +12,13 @@ Example:&nbsp;19 is a happy number
 
 
 Credits:Special thanks to @mithmatt and @ts for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isHappy(self, n):
+    """
+    :type n: int
+    :rtype: bool
+    """
+```

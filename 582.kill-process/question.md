@@ -28,3 +28,16 @@ Note:
 The given kill id is guaranteed to be one of the given PIDs.
 n >= 1.
 
+
+
+
+```python
+class Solution(object):
+  def killProcess(self, pid, ppid, kill):
+    """
+    :type pid: List[int]
+    :type ppid: List[int]
+    :type kill: int
+    :rtype: List[int]
+    """
+```

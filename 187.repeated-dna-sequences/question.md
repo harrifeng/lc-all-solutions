@@ -10,3 +10,14 @@ Given s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT",
 
 Return:
 ["AAAAACCCCC", "CCCCCAAAAA"].
+
+
+
+```python
+class Solution(object):
+  def findRepeatedDnaSequences(self, s):
+    """
+    :type s: str
+    :rtype: List[str]
+    """
+```

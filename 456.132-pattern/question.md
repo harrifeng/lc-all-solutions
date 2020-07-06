@@ -32,3 +32,14 @@ Output: True
 
 Explanation: There are three 132 patterns in the sequence: [-1, 3, 2], [-1, 3, 0] and [-1, 2, 0].
 
+
+
+
+```python
+class Solution(object):
+  def find132pattern(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: bool
+    """
+```

@@ -22,3 +22,14 @@ You may assume all tickets form at least one valid itinerary.
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+from collections import deque
+class Solution(object):
+  def findItinerary(self, tickets):
+    """
+    :type tickets: List[List[str]]
+    :rtype: List[str]
+    """
+```

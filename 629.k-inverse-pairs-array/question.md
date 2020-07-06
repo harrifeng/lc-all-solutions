@@ -32,3 +32,15 @@ Note:
 
 The integer n is in the range [1, 1000] and k is in the range [0, 1000].
 
+
+
+
+```python
+class Solution(object):
+  def kInversePairs(self, n, k):
+    """
+    :type n: int
+    :type k: int
+    :rtype: int
+    """
+```

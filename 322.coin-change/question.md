@@ -20,3 +20,14 @@ You may assume that you have an infinite number of each kind of coin.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def coinChange(self, coins, amount):
+    """
+    :type coins: List[int]
+    :type amount: int
+    :rtype: int
+    """
+```

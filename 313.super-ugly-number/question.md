@@ -18,3 +18,14 @@
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def nthSuperUglyNumber(self, n, primes):
+    """
+    :type n: int
+    :type primes: List[int]
+    :rtype: int
+    """
+```

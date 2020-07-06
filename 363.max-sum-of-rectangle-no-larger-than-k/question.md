@@ -19,3 +19,14 @@ What if the number of rows is much larger than the number of columns?
 
 
 Credits:Special thanks to @fujiaozhu for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def maxSumSubmatrix(self, matrix, k):
+    """
+    :type matrix: List[List[int]]
+    :type k: int
+    :rtype: int
+    """
+```

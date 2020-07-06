@@ -14,3 +14,13 @@ Can you do it like a boss? Do it without using any builtin function like __built
 
 
 Credits:Special thanks to @ syedee  for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def countBits(self, num):
+    """
+    :type num: int
+    :rtype: List[int]
+    """
+```

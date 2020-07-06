@@ -38,3 +38,15 @@ Another valid answer is [5,2,6,null,4,null,7].
    \   \
     4   7
 
+
+
+
+```python
+class Solution(object):
+  def deleteNode(self, root, key):
+    """
+    :type root: TreeNode
+    :type key: int
+    :rtype: TreeNode
+    """
+```

@@ -23,3 +23,9 @@ Therefore, return the median sliding window as [1,-1,-1,3,5,6].
 
 Note: 
 You may assume k is always valid, ie: k is always smaller than input array's size for non-empty array.
+
+
+```python
+class Solution(object):
+  def medianSlidingWindow(self, nums, k):
+```

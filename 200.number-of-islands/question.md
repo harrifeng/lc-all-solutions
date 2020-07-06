@@ -8,3 +8,13 @@ Example 2:
 Answer: 3
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def numIslands(self, grid):
+    """
+    :type grid: List[List[str]]
+    :rtype: int
+    """
+```

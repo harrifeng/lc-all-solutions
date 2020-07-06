@@ -36,3 +36,13 @@ Return 4
 The longest increasing path is [3, 4, 5, 6]. Moving diagonally is not allowed.
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def longestIncreasingPath(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    :rtype: int
+    """
+```

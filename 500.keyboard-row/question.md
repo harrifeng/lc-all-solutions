@@ -18,3 +18,14 @@ Note:
 You may use one character in the keyboard more than once.
 You may assume the input string will only contain letters of alphabet.
 
+
+
+
+```python
+class Solution(object):
+  def findWords(self, words):
+    """
+    :type words: List[str]
+    :rtype: List[str]
+    """
+```

@@ -23,3 +23,14 @@ For the purpose of this problem, assume that your function returns 0 when the re
 
 Note:
 The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows.
+
+
+
+```python
+class Solution(object):
+  def reverse(self, x):
+    """
+    :type x: int
+    :rtype: int
+    """
+```

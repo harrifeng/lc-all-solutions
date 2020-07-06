@@ -15,3 +15,14 @@ Only two moves are needed (remember each move increments or decrements one eleme
 
 [1,2,3]  =>  [2,2,3]  =>  [2,2,2]
 
+
+
+
+```python
+class Solution(object):
+  def minMoves2(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

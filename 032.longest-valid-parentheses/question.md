@@ -5,3 +5,14 @@ For "(()", the longest valid parentheses substring is "()", which has length = 2
 
 
 Another example is ")()())", where the longest valid parentheses substring is "()()", which has length = 4.
+
+
+
+```python
+class Solution(object):
+  def longestValidParentheses(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

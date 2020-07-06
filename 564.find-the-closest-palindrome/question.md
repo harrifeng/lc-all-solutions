@@ -14,3 +14,14 @@ Note:
 The input n is a positive integer represented by string, whose length will not exceed 18.
 If there is a tie, return the smaller one as answer.
 
+
+
+
+```python
+class Solution(object):
+  def nearestPalindromic(self, n):
+    """
+    :type n: str
+    :rtype: str
+    """
+```

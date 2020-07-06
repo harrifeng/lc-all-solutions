@@ -9,3 +9,13 @@ For example, given three people living at (0,0), (0,4), and (2,2):
 0 - 0 - 1 - 0 - 0
 
 The point (0,2) is an ideal meeting point, as the total travel distance of 2+2+2=6 is minimal. So return 6.
+
+
+```python
+class Solution(object):
+  def minTotalDistance(self, grid):
+    """
+    :type grid: List[List[int]]
+    :rtype: int
+    """
+```

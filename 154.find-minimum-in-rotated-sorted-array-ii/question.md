@@ -12,3 +12,13 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Find the minimum element.
 
 The array may contain duplicates.
+
+
+```python
+class Solution(object):
+  def findMin(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

@@ -52,3 +52,15 @@ true
 
 UPDATE (2017/1/8):
 The seqs parameter had been changed to a list of list of strings (instead of a 2d array of strings). Please reload the code definition to get the latest changes.
+
+
+
+```python
+class Solution(object):
+  def sequenceReconstruction(self, org, seqs):
+    """
+    :type org: List[int]
+    :type seqs: List[List[int]]
+    :rtype: bool
+    """
+```

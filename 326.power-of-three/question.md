@@ -7,3 +7,13 @@
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isPowerOfThree(self, n):
+    """
+    :type n: int
+    :rtype: bool
+    """
+```

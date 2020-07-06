@@ -13,3 +13,14 @@ Output: 3
 
 Hint:
 The number of elements in the given matrix will not exceed 10,000.
+
+
+
+```python
+class Solution(object):
+  def longestLine(self, M):
+    """
+    :type M: List[List[int]]
+    :rtype: int
+    """
+```

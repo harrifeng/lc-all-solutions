@@ -34,3 +34,15 @@ The length of strings in both lists will be in the range of [1, 30].
 The index is starting from 0 to the list length minus 1.
 No duplicates in both lists.
 
+
+
+
+```python
+class Solution(object):
+  def findRestaurant(self, list1, list2):
+    """
+    :type list1: List[str]
+    :type list2: List[str]
+    :rtype: List[str]
+    """
+```

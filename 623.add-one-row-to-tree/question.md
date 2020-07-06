@@ -59,3 +59,16 @@ Note:
 The given d is in range [1, maximum depth of the given tree + 1].
 The given binary tree has at least one tree node.
 
+
+
+
+```python
+class Solution(object):
+  def addOneRow(self, root, v, d):
+    """
+    :type root: TreeNode
+    :type v: int
+    :type d: int
+    :rtype: TreeNode
+    """
+```

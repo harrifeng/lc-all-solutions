@@ -47,3 +47,10 @@ Note:
 The range of tree node value is in the range of [-100000, 100000].
 1 <= n <= 10000
 
+
+
+
+```python
+class Solution(object):
+  def checkEqualTree(self, root):
+```

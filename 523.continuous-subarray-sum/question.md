@@ -25,3 +25,15 @@ Note:
 The length of the array won't exceed 10,000.
 You may assume the sum of all the numbers is in the range of a signed 32-bit integer.
 
+
+
+
+```python
+class Solution(object):
+  def checkSubarraySum(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: bool
+    """
+```

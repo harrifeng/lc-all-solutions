@@ -11,3 +11,13 @@ Return:
 ]
 
 Note: All inputs will be in lower-case.
+
+
+```python
+class Solution(object):
+  def groupAnagrams(self, strs):
+    """
+    :type strs: List[str]
+    :rtype: List[List[str]]
+    """
+```

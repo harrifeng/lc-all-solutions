@@ -27,3 +27,14 @@ The garden has at least one tree.
 All coordinates are distinct. 
 Input points have NO order. No order required for output.
 
+
+
+
+```python
+class Solution(object):
+  def outerTrees(self, points):
+    """
+    :type points: List[Point]
+    :rtype: List[Point]
+    """
+```

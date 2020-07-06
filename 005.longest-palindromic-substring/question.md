@@ -16,3 +16,14 @@ Input: "cbbd"
 
 Output: "bb"
 
+
+
+
+```python
+class Solution(object):
+  def longestPalindrome(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

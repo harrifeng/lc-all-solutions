@@ -22,3 +22,15 @@ The given list may contain duplicates, so ascending order means >= here.
 For Java users, please note that the input type has been changed to List&lt;List&lt;Integer&gt;&gt;. And after you reset the code template, you'll see this point.
 
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def smallestRange(self, nums):
+    """
+    :type nums: List[List[int]]
+    :rtype: List[int]
+    """
+```

@@ -30,3 +30,13 @@ click to show hint.
 You would need to optimize your backtracking to pass the larger test. Could you stop backtracking earlier?
 
 If the current candidate does not exist in all words' prefix, you could stop backtracking immediately. What kind of data structure could answer such query efficiently? Does a hash table work? Why or why not? How about a Trie? If you would like to learn how to implement a basic trie, please work on this problem: Implement Trie (Prefix Tree) first.
+
+
+
+```python
+  def __init__(self, char):
+  def __init__(self):
+  def addWord(self, word):
+class Solution:
+  def findWords(self, board, words):
+```

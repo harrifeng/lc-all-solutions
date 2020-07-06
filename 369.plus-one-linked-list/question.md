@@ -12,3 +12,14 @@ Input:
 Output:
 1->2->4
 
+
+
+
+```python
+class Solution(object):
+  def plusOne(self, head):
+    """
+    :type head: ListNode
+    :rtype: ListNode
+    """
+```

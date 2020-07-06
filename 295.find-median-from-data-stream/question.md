@@ -22,3 +22,19 @@ findMedian() -> 2
 
 
 Credits:Special thanks to @Louis1992 for adding this problem and creating all test cases.
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def addNum(self, num):
+    """
+    :type num: int
+    :rtype: void
+    """
+  def findMedian(self):
+    """
+    :rtype: float
+    """
+```

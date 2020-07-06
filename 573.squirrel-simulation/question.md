@@ -22,3 +22,18 @@ The given positions of nuts have no order.
 Height and width are positive integers. 3 <= height * width <= 10,000.
 The given positions contain at least one nut, only one tree and one squirrel.
 
+
+
+
+```python
+class Solution(object):
+  def minDistance(self, height, width, tree, squirrel, nuts):
+    """
+    :type height: int
+    :type width: int
+    :type tree: List[int]
+    :type squirrel: List[int]
+    :type nuts: List[List[int]]
+    :rtype: int
+    """
+```

@@ -16,3 +16,14 @@ Output: "-10"
 
 Note:
 The input will be in range of [-1e7, 1e7].
+
+
+
+```python
+class Solution(object):
+  def convertToBase7(self, num):
+    """
+    :type num: int
+    :rtype: str
+    """
+```

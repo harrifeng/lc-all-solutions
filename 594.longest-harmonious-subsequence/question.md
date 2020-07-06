@@ -14,3 +14,14 @@ Note:
 The length of the input array will not exceed 20,000.
 
 
+
+
+
+```python
+class Solution(object):
+  def findLHS(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

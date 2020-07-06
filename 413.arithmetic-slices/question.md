@@ -21,3 +21,14 @@ Example:
 A = [1, 2, 3, 4]
 
 return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] itself.
+
+
+
+```python
+class Solution(object):
+  def numberOfArithmeticSlices(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

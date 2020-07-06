@@ -49,3 +49,14 @@ Explanation: The conditional expressions group right-to-left. Using parenthesis,
           -> "(T ? F : 3)"                 or       -> "(T ? F : 5)"
           -> "F"                                    -> "F"
 
+
+
+
+```python
+class Solution(object):
+  def parseTernary(self, expression):
+    """
+    :type expression: str
+    :rtype: str
+    """
+```

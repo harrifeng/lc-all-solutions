@@ -8,3 +8,18 @@ The encoded string should be as compact as possible.
 
 
 Note: Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.
+
+
+
+```python
+  def serialize(self, root):
+    """Encodes a tree to a single string.
+    :type root: TreeNode
+    :rtype: str
+    """
+  def deserialize(self, data):
+    """Decodes your encoded data to tree.
+    :type data: str
+    :rtype: TreeNode
+    """
+```

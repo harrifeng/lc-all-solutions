@@ -27,3 +27,14 @@ How about multiple spaces between two words?
 Reduce them to a single space in the reversed string.
 
 
+
+
+
+```python
+class Solution(object):
+  def reverseWords(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+```

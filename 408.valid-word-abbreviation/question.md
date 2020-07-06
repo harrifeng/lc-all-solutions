@@ -27,3 +27,15 @@ Given s = "apple", abbr = "a2e":
 
 Return false.
 
+
+
+
+```python
+class Solution(object):
+  def validWordAbbreviation(self, dest, src):
+    """
+    :type word: str
+    :type abbr: str
+    :rtype: bool
+    """
+```

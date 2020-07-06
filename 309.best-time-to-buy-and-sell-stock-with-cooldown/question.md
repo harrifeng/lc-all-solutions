@@ -16,3 +16,13 @@ transactions = [buy, sell, cooldown, buy, sell]
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def maxProfit(self, prices):
+    """
+    :type prices: List[int]
+    :rtype: int
+    """
+```

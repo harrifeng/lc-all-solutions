@@ -36,3 +36,15 @@ Note:
 
 The range of width and height of the input 2D array is [1,200].
 
+
+
+
+```python
+class Solution(object):
+  def findBlackPixel(self, picture, N):
+    """
+    :type picture: List[List[str]]
+    :type N: int
+    :rtype: int
+    """
+```

@@ -16,3 +16,14 @@ You may assume pattern contains only lowercase letters, and str contains lowerca
 
 
 Credits:Special thanks to @minglotus6 for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def wordPattern(self, pattern, str):
+    """
+    :type pattern: str
+    :type str: str
+    :rtype: bool
+    """
+```

@@ -20,3 +20,9 @@ Your code should preferably run in O(n) time and use only O(1) memory.
 
 
 Credits:Special thanks to @stellari for adding this problem and creating all test cases.
+
+
+```python
+class Solution:
+  def getIntersectionNode(self, headA, headB):
+```

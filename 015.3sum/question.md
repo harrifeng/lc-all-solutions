@@ -10,3 +10,14 @@ A solution set is:
   [-1, 0, 1],
   [-1, -1, 2]
 ]
+
+
+
+```python
+class Solution(object):
+  def threeSum(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
+```

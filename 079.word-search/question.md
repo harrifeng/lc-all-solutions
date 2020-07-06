@@ -19,3 +19,10 @@ Given board =
 word = "ABCCED", -> returns true,
 word = "SEE", -> returns true,
 word = "ABCB", -> returns false.
+
+
+
+```python
+class Solution:
+  def exist(self, board, word):
+```

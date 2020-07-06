@@ -51,3 +51,17 @@ Both the ball and the destination exist on an empty space, and they will not be 
 The given maze does not contain border (like the red rectangle in the example pictures), but you could assume the border of the maze are all walls.
 The maze contains at least 2 empty spaces, and both the width and height of the maze won't exceed 100.
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def hasPath(self, maze, start, destination):
+    """
+    :type maze: List[List[int]]
+    :type start: List[int]
+    :type destination: List[int]
+    :rtype: bool
+    """
+```

@@ -24,3 +24,15 @@ Output:
 
 The longest substring is "ababb", as 'a' is repeated 2 times and 'b' is repeated 3 times.
 
+
+
+
+```python
+class Solution(object):
+  def longestSubstring(self, s, k):
+    """
+    :type s: str
+    :type k: int
+    :rtype: int
+    """
+```

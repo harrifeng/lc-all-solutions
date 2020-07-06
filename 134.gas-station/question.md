@@ -13,3 +13,15 @@ Return the starting gas station's index if you can travel around the circuit onc
 
 Note:
 The solution is guaranteed to be unique.
+
+
+
+```python
+class Solution(object):
+  def canCompleteCircuit(self, gas, cost):
+    """
+    :type gas: List[int]
+    :type cost: List[int]
+    :rtype: int
+    """
+```

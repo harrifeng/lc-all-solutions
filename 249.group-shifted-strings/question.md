@@ -12,3 +12,13 @@ A solution is:
   ["acef"],
   ["a","z"]
 ]
+
+
+```python
+class Solution(object):
+  def groupStrings(self, strings):
+    """
+    :type strings: List[str]
+    :rtype: List[List[str]]
+    """
+```

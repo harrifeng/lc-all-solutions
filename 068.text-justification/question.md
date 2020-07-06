@@ -44,3 +44,15 @@ Corner Cases:
 A line other than the last line might contain only one word. What should you do in this case?
 In this case, that line should be left-justified.
 
+
+
+
+```python
+class Solution(object):
+  def fullJustify(self, words, maxWidth):
+    """
+    :type words: List[str]
+    :type maxWidth: int
+    :rtype: List[str]
+    """
+```

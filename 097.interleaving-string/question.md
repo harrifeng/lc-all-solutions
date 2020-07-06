@@ -11,3 +11,16 @@ s2 = "dbbca",
 
 When s3 = "aadbbcbcac", return true.
 When s3 = "aadbbbaccc", return false.
+
+
+
+```python
+class Solution(object):
+  def isInterleave(self, s1, s2, s3):
+    """
+    :type s1: str
+    :type s2: str
+    :type s3: str
+    :rtype: bool
+    """
+```

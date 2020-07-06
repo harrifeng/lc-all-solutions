@@ -19,3 +19,18 @@ Note: Do not use class member/global/static variables to store states. Your seri
 
 
 Credits:Special thanks to @Louis1992 for adding this problem and creating all test cases.
+
+
+```python
+from collections import deque
+  def serialize(self, root):
+    """Encodes a tree to a single string.
+    :type root: TreeNode
+    :rtype: str
+    """
+  def deserialize(self, data):
+    """Decodes your encoded data to tree.
+    :type data: str
+    :rtype: TreeNode
+    """
+```

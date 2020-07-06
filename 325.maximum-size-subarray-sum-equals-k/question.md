@@ -26,3 +26,15 @@ return 2. (because the subarray [-1, 2] sums to 1 and is the longest)
 
     Follow Up:
     Can you do it in O(n) time?
+
+
+
+```python
+class Solution(object):
+  def maxSubArrayLen(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: int
+    """
+```

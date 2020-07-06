@@ -24,3 +24,13 @@ You end up paying $5 + $7 + $9 = $21.
 Given a particular n &ge; 1, find out how much money you need to have to guarantee a win.
 
 Credits:Special thanks to @agave and @StefanPochmann for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def getMoneyAmount(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

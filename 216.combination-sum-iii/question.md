@@ -19,3 +19,14 @@ Output:
 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def combinationSum3(self, k, n):
+    """
+    :type k: int
+    :type n: int
+    :rtype: List[List[int]]
+    """
+```

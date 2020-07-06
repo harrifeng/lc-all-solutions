@@ -14,3 +14,25 @@ What if there are lots of merges and the number of disjoint intervals are small 
 
 
 Credits:Special thanks to @yunhong for adding this problem and creating most of the test cases.
+
+
+```python
+  def __init__(self):
+    """
+    """
+  def insert(self, newInterval):
+    """
+    :type intervals: List[Interval]
+    :type newInterval: Interval
+    :rtype: List[Interval]
+    """
+  def addNum(self, val):
+    """
+    :type val: int
+    :rtype: void
+    """
+  def getIntervals(self):
+    """
+    :rtype: List[Interval]
+    """
+```

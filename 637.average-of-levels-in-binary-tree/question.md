@@ -18,3 +18,15 @@ Note:
 
 The range of node's value is in the range of 32-bit signed integer.
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def averageOfLevels(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[float]
+    """
+```

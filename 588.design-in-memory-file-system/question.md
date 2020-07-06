@@ -26,3 +26,34 @@ You can assume all file or directory paths are absolute paths which begin with /
 You can assume that all operations will be passed valid parameters and users will not attempt to retrieve file content or list a directory or file that does not exist.
 You can assume that all directory names and file names only contain lower-case letters, and same names won't exist in the same directory.
 
+
+
+
+```python
+  def __init__(self, name):
+  def appendData(self, data):
+  def readAll(self):
+  def __init__(self):
+  def ls(self, path):
+    """
+    :type path: str
+    :rtype: List[str]
+    """
+  def lookup(self, path, isAutoCreate):
+  def mkdir(self, path):
+    """
+    :type path: str
+    :rtype: void
+    """
+  def addContentToFile(self, filePath, content):
+    """
+    :type filePath: str
+    :type content: str
+    :rtype: void
+    """
+  def readContentFromFile(self, filePath):
+    """
+    :type filePath: str
+    :rtype: str
+    """
+```

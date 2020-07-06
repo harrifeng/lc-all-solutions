@@ -19,3 +19,9 @@ All root-to-leaf paths are:
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution:
+  def binaryTreePaths(self, root):
+```

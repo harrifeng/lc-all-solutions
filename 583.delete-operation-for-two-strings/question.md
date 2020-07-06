@@ -15,3 +15,15 @@ Note:
 The length of given words won't exceed 500.
 Characters in given words can only be lower-case letters.
 
+
+
+
+```python
+class Solution(object):
+  def minDistance(self, word1, word2):
+    """
+    :type word1: str
+    :type word2: str
+    :rtype: int
+    """
+```

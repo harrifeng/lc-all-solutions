@@ -13,3 +13,14 @@ After first round, the three bulbs are [on, on, on].
 After second round, the three bulbs are [on, off, on].
 After third round, the three bulbs are [on, off, off]. 
 So you should return 1, because there is only one bulb is on.
+
+
+
+```python
+class Solution(object):
+  def bulbSwitch(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

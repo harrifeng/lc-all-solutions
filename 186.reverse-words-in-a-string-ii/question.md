@@ -17,3 +17,9 @@ Could you do it in-place without allocating extra space?
 
 
 Related problem: Rotate Array
+
+
+```python
+class Solution:
+  def reverseWords(self, s):
+```

@@ -66,3 +66,14 @@ Output:
 Explanation:
 The output consists of two word squares. The order of output does not matter (just the order of words in each word square matters).
 
+
+
+
+```python
+class Solution(object):
+  def wordSquares(self, words):
+    """
+    :type words: List[str]
+    :rtype: List[List[str]]
+    """
+```

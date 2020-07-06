@@ -12,3 +12,14 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 Write a function to determine if a given target is in the array.
 
 The array may contain duplicates.
+
+
+```python
+class Solution(object):
+  def search(self, nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: bool
+    """
+```

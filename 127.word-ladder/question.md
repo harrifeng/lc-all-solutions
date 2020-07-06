@@ -34,3 +34,17 @@ You may assume beginWord and endWord are non-empty and are not the same.
 
 UPDATE (2017/1/20):
 The wordList parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def ladderLength(self, beginWord, endWord, wordList):
+    """
+    :type beginWord: str
+    :type endWord: str
+    :type wordList: Set[str]
+    :rtype: int
+    """
+```

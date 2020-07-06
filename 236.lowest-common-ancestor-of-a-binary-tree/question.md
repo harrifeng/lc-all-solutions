@@ -18,3 +18,15 @@ According to the definition of LCA on Wikipedia: “The lowest common ancestor i
 
 
 For example, the lowest common ancestor (LCA) of nodes 5 and 1 is 3. Another example is LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
+
+
+```python
+class Solution(object):
+  def lowestCommonAncestor(self, root, p, q):
+    """
+    :type root: TreeNode
+    :type p: TreeNode
+    :type q: TreeNode
+    :rtype: TreeNode
+    """
+```

@@ -29,3 +29,14 @@ Output: 1
 Explanation: Note that the third maximum here means the third maximum distinct number.
 Both numbers with value 2 are both considered as second maximum.
 
+
+
+
+```python
+class Solution(object):
+  def thirdMax(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

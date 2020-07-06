@@ -28,3 +28,15 @@ All the strings in the input will only contain lower-case letters.
 The size of the dictionary won't exceed 1,000.
 The length of all the strings in the input won't exceed 1,000.
 
+
+
+
+```python
+class Solution(object):
+  def findLongestWord(self, s, d):
+    """
+    :type s: str
+    :type d: List[str]
+    :rtype: str
+    """
+```

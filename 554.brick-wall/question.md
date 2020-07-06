@@ -28,3 +28,14 @@ Note:
 The width sum of bricks in different rows are the same and won't exceed INT_MAX.
 The number of bricks in each row is in range [1,10,000]. The height of wall is in range [1,10,000]. Total number of bricks of the wall won't exceed 20,000. 
 
+
+
+
+```python
+class Solution(object):
+  def leastBricks(self, wall):
+    """
+    :type wall: List[List[int]]
+    :rtype: int
+    """
+```

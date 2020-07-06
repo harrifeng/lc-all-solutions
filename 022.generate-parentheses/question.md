@@ -13,3 +13,14 @@ For example, given n = 3, a solution set is:
   "()(())",
   "()()()"
 ]
+
+
+
+```python
+class Solution(object):
+  def generateParenthesis(self, n):
+    """
+    :type n: int
+    :rtype: List[str]
+    """
+```

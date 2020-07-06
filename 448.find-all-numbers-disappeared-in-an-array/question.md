@@ -12,3 +12,14 @@ Input:
 Output:
 [5,6]
 
+
+
+
+```python
+class Solution(object):
+  def findDisappearedNumbers(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+```

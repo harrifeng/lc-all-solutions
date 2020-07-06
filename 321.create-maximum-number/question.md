@@ -33,3 +33,15 @@
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def maxNumber(self, _nums1, _nums2, k):
+    """
+    :type nums1: List[int]
+    :type nums2: List[int]
+    :type k: int
+    :rtype: List[int]
+    """
+```

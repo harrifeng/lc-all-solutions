@@ -17,3 +17,14 @@ n = 10, I pick 6.
 
 Return 6.
 
+
+
+
+```python
+class Solution(object):
+  def guessNumber(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

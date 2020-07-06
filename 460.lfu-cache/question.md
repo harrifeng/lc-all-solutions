@@ -24,3 +24,21 @@ cache.get(1);       // returns -1 (not found)
 cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 
+
+
+
+```python
+  def delete(elem):
+  def move(elem, newPrev, newNext):
+  def append(head, elem):
+  def insertAfter(head, elem):
+  def isEmpty(head):
+  def initHead(head):
+  def __init__(self, freq):
+  def popCache(self):
+  def __init__(self, key, val, freqNode):
+  def increaseFreq(self):
+  def __init__(self, capacity):
+  def get(self, key):
+  def set(self, key, value):
+```

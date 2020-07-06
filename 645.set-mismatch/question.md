@@ -19,3 +19,14 @@ Note:
 The given array size will in the range [2, 10000].
 The given array's numbers won't have any order.
 
+
+
+
+```python
+class Solution(object):
+  def findErrorNums(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+```

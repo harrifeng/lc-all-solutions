@@ -26,3 +26,14 @@ Output: false
 
 Explanation: The array cannot be partitioned into equal sum subsets.
 
+
+
+
+```python
+class Solution(object):
+  def canPartition(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: bool
+    """
+```

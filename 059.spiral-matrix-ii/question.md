@@ -11,3 +11,14 @@ You should return the following matrix:
  [ 8, 9, 4 ],
  [ 7, 6, 5 ]
 ]
+
+
+
+```python
+class Solution(object):
+  def generateMatrix(self, n):
+    """
+    :type n: int
+    :rtype: List[List[int]]
+    """
+```

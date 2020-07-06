@@ -57,3 +57,14 @@ Output:
 
 Note:
 The height of binary tree is in the range of [1, 10].
+
+
+
+```python
+class Solution(object):
+  def printTree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[List[str]]
+    """
+```

@@ -41,3 +41,9 @@ Output:
  1
 ```
 
+
+
+
+```python
+class Solution:
+```

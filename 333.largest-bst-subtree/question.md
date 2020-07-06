@@ -16,3 +16,14 @@ The return value is the subtree's size, which is 3.
 
 Follow up:
 Can you figure out ways to solve it with O(n) time complexity?
+
+
+
+```python
+class Solution(object):
+  def largestBSTSubtree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

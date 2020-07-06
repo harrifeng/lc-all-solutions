@@ -6,3 +6,13 @@ Given n = 2, return 91. (The answer should be the total numbers in the range of 
 
 
 Credits:Special thanks to @memoryless for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def countNumbersWithUniqueDigits(self, n):
+    """
+    :type n: int
+    :rtype: int4
+    """
+```

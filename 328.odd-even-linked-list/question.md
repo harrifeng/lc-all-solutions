@@ -14,3 +14,13 @@ The first node is considered odd, the second node even and so on ...
 
 
 Credits:Special thanks to @DjangoUnchained for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def oddEvenList(self, head):
+    """
+    :type head: ListNode
+    :rtype: ListNode
+    """
+```

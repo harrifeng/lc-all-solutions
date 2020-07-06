@@ -12,3 +12,19 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
+
+
+
+```python
+class Solution(object):
+  def _isPalindrome(self, x):
+    """
+    :type x: int
+    :rtype: bool
+    """
+  def isPalindrome(self, x):
+    """
+    :type x: int
+    :rtype: bool
+    """
+```

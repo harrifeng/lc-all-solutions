@@ -11,3 +11,10 @@ Examples:
 
 
 Credits:Special thanks to @davidtan1890 for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def addOperators(self, num, target):
+  def dfs(self, num, temp, cur, last, res):
+```

@@ -25,3 +25,14 @@ Explanation: Both [2,1,3] and [3,1,2] can construct the secret signature "DI", b
 Note:
 The input string will only contain the character 'D' and 'I'.
 The length of input string is a positive integer and will not exceed 10,000
+
+
+
+```python
+class Solution(object):
+  def findPermutation(self, s):
+    """
+    :type s: str
+    :rtype: List[int]
+    """
+```

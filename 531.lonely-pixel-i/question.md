@@ -20,3 +20,11 @@ Note:
 
 The range of width and height of the input 2D array is [1,500].
 
+
+
+
+```python
+from collections import defaultdict
+class Solution(object):
+  def findLonelyPixel(self, picture):
+```

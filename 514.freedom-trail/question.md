@@ -35,3 +35,15 @@ Length of both ring and key will be in range 1 to 100.
 There are only lowercase letters in both strings and might be some duplcate characters in both strings.
 It's guaranteed that string key could always be spelled by rotating the string ring.
 
+
+
+
+```python
+class Solution(object):
+  def findRotateSteps(self, ring, key):
+    """
+    :type ring: str
+    :type key: str
+    :rtype: int
+    """
+```

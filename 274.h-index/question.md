@@ -15,3 +15,13 @@ Note: If there are several possible values for h, the maximum one is taken as th
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def hIndex(self, citations):
+    """
+    :type citations: List[int]
+    :rtype: int
+    """
+```

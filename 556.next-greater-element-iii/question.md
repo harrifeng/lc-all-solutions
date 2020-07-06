@@ -13,3 +13,14 @@ Example 2:
 Input: 21
 Output: -1
 
+
+
+
+```python
+class Solution(object):
+  def nextGreaterElement(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

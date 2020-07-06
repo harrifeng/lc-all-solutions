@@ -25,3 +25,15 @@ Return 3. The paths that sum to 8 are:
 2.  5 -> 2 -> 1
 3. -3 -> 11
 
+
+
+
+```python
+class Solution(object):
+  def pathSum(self, root, target):
+    """
+    :type root: TreeNode
+    :type target: int
+    :rtype: int
+    """
+```

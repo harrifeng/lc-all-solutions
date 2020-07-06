@@ -13,3 +13,13 @@ Return 4.
 
 
 Credits:Special thanks to @Freezen for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def maximalSquare(self, matrix):
+    """
+    :type matrix: List[List[str]]
+    :rtype: int
+    """
+```

@@ -15,3 +15,17 @@ All the input integers are in the range [-10000, 10000].
 A valid square has four equal sides with positive length and four equal angles (90-degree angles).
 Input points have no order.
 
+
+
+
+```python
+class Solution(object):
+  def validSquare(self, p1, p2, p3, p4):
+    """
+    :type p1: List[int]
+    :type p2: List[int]
+    :type p3: List[int]
+    :type p4: List[int]
+    :rtype: bool
+    """
+```

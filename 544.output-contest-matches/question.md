@@ -43,3 +43,14 @@ Note:
 The n is in range [2, 212].
 We ensure that the input n can be converted into the form 2k, where k is a positive integer.
 
+
+
+
+```python
+class Solution(object):
+  def findContestMatch(self, n):
+    """
+    :type n: int
+    :rtype: str
+    """
+```

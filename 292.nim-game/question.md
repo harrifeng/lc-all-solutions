@@ -11,3 +11,13 @@ For example, if there are 4 stones in the heap, then you will never win the game
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def canWinNim(self, n):
+    """
+    :type n: int
+    :rtype: bool
+    """
+```

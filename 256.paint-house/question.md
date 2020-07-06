@@ -7,3 +7,13 @@ The cost of painting each house with a certain color is represented by a n x 3 c
 
 Note:
 All costs are positive integers.
+
+
+```python
+class Solution(object):
+  def minCost(self, costs):
+    """
+    :type costs: List[List[int]]
+    :rtype: int
+    """
+```

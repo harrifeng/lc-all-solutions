@@ -29,3 +29,15 @@ This problem is equivalent to finding if a cycle exists in a directed graph. If 
 Topological Sort via DFS - A great video tutorial (21 minutes) on Coursera explaining the basic concepts of Topological Sort.
 Topological sort could also be done via BFS.
 
+
+
+
+```python
+class Solution(object):
+  def canFinish(self, numCourses, prerequisites):
+    """
+    :type numCourses: int
+    :type prerequisites: List[List[int]]
+    :rtype: bool
+    """
+```

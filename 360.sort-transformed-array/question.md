@@ -18,3 +18,16 @@ Result: [-23, -5, 1, 7]
 
 
 Credits:Special thanks to @elmirap for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def sortTransformedArray(self, nums, a, b, c):
+    """
+    :type nums: List[int]
+    :type a: int
+    :type b: int
+    :type c: int
+    :rtype: List[int]
+    """
+```

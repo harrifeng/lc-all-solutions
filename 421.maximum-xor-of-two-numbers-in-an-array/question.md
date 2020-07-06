@@ -12,3 +12,15 @@ Output: 28
 
 Explanation: The maximum result is 5 ^ 25 = 28.
 
+
+
+
+```python
+  def __init__(self, bit=None):
+class Solution(object):
+  def findMaximumXOR(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

@@ -33,3 +33,14 @@ click to show hints.
 
 Hints:
 If you notice carefully in the flattened tree, each node's right child points to the next node of a pre-order traversal.
+
+
+
+```python
+class Solution(object):
+  def flatten(self, root):
+    """
+    :type root: TreeNode
+    :rtype: void Do not return anything, modify root in-place instead.
+    """
+```

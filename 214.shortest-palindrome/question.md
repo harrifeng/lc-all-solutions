@@ -7,3 +7,14 @@ Given "aacecaaa", return "aaacecaaa".
 Given "abcd", return "dcbabcd".
 
 Credits:Special thanks to @ifanchu for adding this problem and creating all test cases. Thanks to @Freezen for additional test cases.
+
+
+```python
+class Solution(object):
+  def _shortestPalindrome(self, s):
+    """
+    :type s: str
+    :rtype: str
+    """
+  def shortestPalindrome(self, s):
+```

@@ -11,3 +11,13 @@ Note that 1 is typically treated as an ugly number, and n does not exceed 1690.
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def nthUglyNumber(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

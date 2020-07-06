@@ -17,3 +17,14 @@ Input: 3
 Output: False
 
 
+
+
+
+```python
+class Solution(object):
+  def judgeSquareSum(self, c):
+    """
+    :type c: int
+    :rtype: bool
+    """
+```

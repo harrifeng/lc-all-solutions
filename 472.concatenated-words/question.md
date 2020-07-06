@@ -18,3 +18,14 @@ The length sum of elements in the given array will not exceed 600,000.
 All the input string will only include lower case letters.
 The returned elements order does not matter. 
 
+
+
+
+```python
+class Solution(object):
+  def findAllConcatenatedWordsInADict(self, words):
+    """
+    :type words: List[str]
+    :rtype: List[str]
+    """
+```

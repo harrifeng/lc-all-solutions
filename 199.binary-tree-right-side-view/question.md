@@ -16,3 +16,14 @@ You should return [1, 3, 4].
 
 
 Credits:Special thanks to @amrsaqr for adding this problem and creating all test cases.
+
+
+```python
+from collections import deque
+class Solution(object):
+  def rightSideView(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[int]
+    """
+```

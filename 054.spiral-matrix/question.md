@@ -14,3 +14,14 @@ Given the following matrix:
 
 
 You should return [1,2,3,6,9,8,7,4,5].
+
+
+
+```python
+class Solution(object):
+  def spiralOrder(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    :rtype: List[int]
+    """
+```

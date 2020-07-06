@@ -21,3 +21,16 @@ Note:
 Elements of the given array will be in range [-10,000, 10,000].
 The answer with the calculation error less than 10-5 will be accepted.
 
+
+
+
+```python
+class Solution(object):
+  def _findMaxAverage(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: float
+    """
+  def findMaxAverage(self, nums, k):
+```

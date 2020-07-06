@@ -15,3 +15,14 @@ The length of the given array will not exceed 15.
 The range of integer in the given array is [-100,100].
 The given array may contain duplicates, and two equal integers should also be considered as a special case of increasing sequence.
 
+
+
+
+```python
+class Solution(object):
+  def findSubsequences(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
+```

@@ -42,3 +42,14 @@ rotate the input matrix in-place such that it becomes:
   [16, 7,10,11]
 ]
 
+
+
+
+```python
+class Solution(object):
+  def rotate(self, matrix):
+    """
+    :type matrix: List[List[int]]
+    :rtype: void Do not return anything, modify matrix in-place instead.
+    """
+```

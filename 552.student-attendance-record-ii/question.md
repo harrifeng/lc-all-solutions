@@ -29,3 +29,14 @@ The value of n won't exceed 100,000.
 
 
 
+
+
+
+```python
+class Solution(object):
+  def checkRecord(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

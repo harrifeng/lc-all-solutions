@@ -41,3 +41,14 @@ Explanation:
 or
 7 -> 6 -> 3 -> 2 -> 1
 
+
+
+
+```python
+class Solution(object):
+  def integerReplacement(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

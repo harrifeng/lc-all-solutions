@@ -28,3 +28,11 @@ and
 Therefore, you need to return above trees' root in the form of a list.
 
 
+
+
+
+```python
+class Solution(object):
+  def findDuplicateSubtrees(self, root):
+    from hashlib import sha256
+```

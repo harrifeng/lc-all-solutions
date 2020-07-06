@@ -10,3 +10,13 @@ All costs are positive integers.
 
 Follow up:
 Could you solve it in O(nk) runtime?
+
+
+```python
+class Solution(object):
+  def minCostII(self, costs):
+    """
+    :type costs: List[List[int]]
+    :rtype: int
+    """
+```

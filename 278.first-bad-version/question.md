@@ -11,3 +11,13 @@ You are given an API bool isBadVersion(version) which will return whether versio
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def firstBadVersion(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

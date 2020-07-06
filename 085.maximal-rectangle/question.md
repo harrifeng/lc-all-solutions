@@ -10,3 +10,14 @@ For example, given the following matrix:
 1 0 0 1 0
 
 Return 6.
+
+
+
+```python
+class Solution(object):
+  def maximalRectangle(self, matrix):
+    """
+    :type matrix: List[List[str]]
+    :rtype: int
+    """
+```

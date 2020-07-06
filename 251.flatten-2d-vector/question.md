@@ -19,3 +19,20 @@ By calling next repeatedly until hasNext returns false, the order of elements re
 
 Follow up:
 As an added challenge, try to code it using only iterators in C++ or iterators in Java.
+
+
+
+```python
+  def __init__(self, vec2d):
+    """
+    :type vec2d: List[List[int]]
+    """
+  def next(self):
+    """
+    :rtype: int
+    """
+  def hasNext(self):
+    """
+    :rtype: bool
+    """
+```

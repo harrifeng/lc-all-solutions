@@ -4,3 +4,14 @@ Given an array of meeting time intervals consisting of start and end times [[s1,
 For example,
 Given [[0, 30],[5, 10],[15, 20]],
 return false.
+
+
+
+```python
+class Solution(object):
+  def canAttendMeetings(self, intervals):
+    """
+    :type intervals: List[Interval]
+    :rtype: bool
+    """
+```

@@ -15,3 +15,16 @@ Note:
 1 <= k <= n <= 30,000.
 Elements of the given array will be in the range [-10,000, 10,000].
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def findMaxAverage(self, nums, k):
+    """
+    :type nums: List[int]
+    :type k: int
+    :rtype: float
+    """
+```

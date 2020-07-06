@@ -24,3 +24,16 @@ The value k is positive and will always be smaller than the length of the sorted
  Length of the given array is positive and will not exceed 104
  Absolute value of elements in the array and x will not exceed 104
 
+
+
+
+```python
+class Solution(object):
+  def findClosestElements(self, arr, k, x):
+    """
+    :type arr: List[int]
+    :type k: int
+    :type x: int
+    :rtype: List[int]
+    """
+```

@@ -24,3 +24,14 @@ Output:
 2
 
 One possible longest palindromic subsequence is "bb".
+
+
+
+```python
+class Solution(object):
+  def longestPalindromeSubseq(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

@@ -21,3 +21,14 @@ it could be decoded as "AB" (1 2) or "L" (12).
 
 
 The number of ways decoding "12" is 2.
+
+
+
+```python
+class Solution(object):
+  def numDecodings(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

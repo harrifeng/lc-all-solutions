@@ -12,3 +12,13 @@ Your algorithm should run in linear runtime complexity. Could you implement it u
 
 
 Credits:Special thanks to @jianchao.li.fighter for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def missingNumber(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: int
+    """
+```

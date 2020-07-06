@@ -39,3 +39,18 @@ Note:
 The string may contain any possible characters out of 256 valid ascii characters. Your algorithm should be generalized enough to work on any possible characters.
 Do not use class member/global/static variables to store states. Your encode and decode algorithms should be stateless.
 Do not rely on any library method such as eval or serialize methods. You should implement your own encode/decode algorithm.
+
+
+
+```python
+  def encode(self, strs):
+    """Encodes a list of strings to a single string.
+    :type strs: List[str]
+    :rtype: str
+    """
+  def decode(self, s):
+    """Decodes a single string to a list of strings.
+    :type s: str
+    :rtype: List[str]
+    """
+```

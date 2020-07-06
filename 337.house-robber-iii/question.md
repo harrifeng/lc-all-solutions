@@ -29,3 +29,13 @@ Maximum amount of money the thief can rob = 4 + 5 = 9.
 
 
 Credits:Special thanks to @dietpepsi for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def rob(self, root):
+    """
+    :type root: TreeNode
+    :rtype: int
+    """
+```

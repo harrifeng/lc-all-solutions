@@ -20,3 +20,15 @@ return its bottom-up level order traversal as:
   [3]
 ]
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def levelOrderBottom(self, root):
+    """
+    :type root: TreeNode
+    :rtype: List[List[int]]
+    """
+```

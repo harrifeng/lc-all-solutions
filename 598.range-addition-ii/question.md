@@ -34,3 +34,16 @@ The range of m and n is [1,40000].
 The range of a is [1,m], and the range of b is [1,n].
 The range of operations size won't exceed 10,000.
 
+
+
+
+```python
+class Solution(object):
+  def maxCount(self, m, n, ops):
+    """
+    :type m: int
+    :type n: int
+    :type ops: List[List[int]]
+    :rtype: int
+    """
+```

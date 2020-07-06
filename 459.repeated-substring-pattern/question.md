@@ -26,3 +26,14 @@ Output: True
 
 Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
 
+
+
+
+```python
+class Solution(object):
+  def repeatedSubstringPattern(self, str):
+    """
+    :type str: str
+    :rtype: bool
+    """
+```

@@ -13,3 +13,15 @@ Restrictions:
 
  The string consists of lower English letters only.
  Length of the given string and k will in the range [1, 10000]
+
+
+
+```python
+class Solution(object):
+  def reverseStr(self, s, k):
+    """
+    :type s: str
+    :type k: int
+    :rtype: str
+    """
+```

@@ -22,3 +22,13 @@ How would you handle overflow for very large input integers?
 
 
 Credits:Special thanks to @jeantimex for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def isAdditiveNumber(self, num):
+    """
+    :type num: str
+    :rtype: bool
+    """
+```

@@ -19,3 +19,14 @@ If nums = [1,2,3], a solution is:
   [1,2],
   []
 ]
+
+
+
+```python
+class Solution(object):
+  def subsets(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[List[int]]
+    """
+```

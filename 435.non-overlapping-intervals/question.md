@@ -37,3 +37,14 @@ Output: 0
 
 Explanation: You don't need to remove any of the intervals since they're already non-overlapping.
 
+
+
+
+```python
+class Solution(object):
+  def eraseOverlapIntervals(self, intervals):
+    """
+    :type intervals: List[Interval]
+    :rtype: int
+    """
+```

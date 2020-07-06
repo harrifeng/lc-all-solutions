@@ -13,3 +13,14 @@ Output: 10
 
 
  Hint: n will not exceed 9 x 10^8.
+
+
+
+```python
+class Solution(object):
+  def newInteger(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

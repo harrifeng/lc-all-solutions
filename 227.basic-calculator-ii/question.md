@@ -17,3 +17,14 @@ Note: Do not use the eval built-in library function.
 
 
 Credits:Special thanks to @ts for adding this problem and creating all test cases.
+
+
+```python
+from collections import deque
+class Solution(object):
+  def calculate(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

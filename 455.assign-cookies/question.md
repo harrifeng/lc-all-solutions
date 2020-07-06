@@ -29,3 +29,16 @@ Explanation: You have 2 children and 3 cookies. The greed factors of 2 children 
 You have 3 cookies and their sizes are big enough to gratify all of the children, 
 You need to output 2.
 
+
+
+
+```python
+from collections import Counter
+class Solution(object):
+  def findContentChildren(self, children, cookies):
+    """
+    :type g: List[int]
+    :type s: List[int]
+    :rtype: int
+    """
+```

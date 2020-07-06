@@ -14,3 +14,15 @@ Return true because "leetcode" can be segmented as "leet code".
 
 UPDATE (2017/1/4):
 The wordDict parameter had been changed to a list of strings (instead of a set of strings). Please reload the code definition to get the latest changes.
+
+
+
+```python
+class Solution(object):
+  def wordBreak(self, s, wordDict):
+    """
+    :type s: str
+    :type wordDict: Set[str]
+    :rtype: bool
+    """
+```

@@ -8,3 +8,15 @@ Note:
 You may assume k is always valid, 1 &le; k &le; array's length.
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def findKthLargest(self, nums, k):
+    """
+    :type A: List[int]
+    :type k: int
+    :rtype: int
+    """
+  def partition(start, end, nums):
+```

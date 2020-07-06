@@ -12,3 +12,14 @@ You are given a helper function bool knows(a, b) which tells you whether A knows
 
 
 Note: There will be exactly one celebrity if he/she is in the party. Return the celebrity's label if there is a celebrity in the party. If there is no celebrity, return -1.
+
+
+
+```python
+class Solution(object):
+  def findCelebrity(self, n):
+    """
+    :type n: int
+    :rtype: int
+    """
+```

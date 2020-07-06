@@ -26,3 +26,14 @@ Note:
 
 The input string length won't exceed 1000.
 
+
+
+
+```python
+class Solution(object):
+  def countSubstrings(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

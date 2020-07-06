@@ -42,3 +42,14 @@ Here's an example:
 
 The above binary tree is serialized as "{1,2,3,#,#,4,#,#,5}". 
 
+
+
+
+```python
+class Solution(object):
+  def upsideDownBinaryTree(self, root):
+    """
+    :type root: TreeNode
+    :rtype: TreeNode
+    """
+```

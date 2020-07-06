@@ -28,3 +28,14 @@ Note:
 
 N is a positive integer and will not exceed 15.
 
+
+
+
+```python
+class Solution(object):
+  def countArrangement(self, N):
+    """
+    :type N: int
+    :rtype: int
+    """
+```

@@ -16,3 +16,14 @@ Input: "2*3-4*5"
 Output: [-34, -14, -10, -10, 10] 
 
 Credits:Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+
+```python
+from operator import *
+class Solution(object):
+  def diffWaysToCompute(self, input):
+    """
+    :type input: str
+    :rtype: List[int]
+    """
+```

@@ -11,3 +11,14 @@ Given numerator = 2, denominator = 3, return "0.(6)".
 
 
 Credits:Special thanks to @Shangrila for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def fractionToDecimal(self, numerator, denominator):
+    """
+    :type numerator: int
+    :type denominator: int
+    :rtype: str
+    """
+```

@@ -22,3 +22,13 @@ Result: [1,2,4,8]
 
 
 Credits:Special thanks to @Stomach_ache for adding this problem and creating all test cases.
+
+
+```python
+class Solution(object):
+  def largestDivisibleSubset(self, nums):
+    """
+    :type nums: List[int]
+    :rtype: List[int]
+    """
+```

@@ -13,3 +13,14 @@ return 2.
 
 
 Note: You may assume the string contain only lowercase letters.
+
+
+
+```python
+class Solution(object):
+  def firstUniqChar(self, s):
+    """
+    :type s: str
+    :rtype: int
+    """
+```

@@ -18,3 +18,10 @@ The length of the given array won't exceed 1000.
 The integers in the given array are in the range of [0, 1000].
 
 
+
+
+
+```python
+class Solution(object):
+  def triangleNumber(self, nums):
+```

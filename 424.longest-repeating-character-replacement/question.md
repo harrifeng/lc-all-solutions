@@ -31,3 +31,16 @@ Explanation:
 Replace the one 'A' in the middle with 'B' and form "AABBBBA".
 The substring "BBBB" has the longest repeating letters, which is 4.
 
+
+
+
+```python
+from collections import deque
+class Solution(object):
+  def characterReplacement(self, s, k):
+    """
+    :type s: str
+    :type k: int
+    :rtype: int
+    """
+```
